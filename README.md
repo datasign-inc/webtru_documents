@@ -3,7 +3,7 @@
 ### Getting Start
 ```javascript
 const api = WebtruCmpApi(version="1.0")  
-const serviceId = "23"
+const serviceId = 23
 
 api.get(serviceId)
 ```
