@@ -3,7 +3,7 @@
 ### Getting Start
 ```javascript
 const api = WebtruCmpApi(version="1.0")  
-const serviceId = "23"
+const serviceId = 23
 
 api.get(serviceId)
 ```
@@ -26,9 +26,9 @@ api.get(serviceId)
 
 #### reason
 ```javascript
-api.CHOSEN_BY_USERS = 20
-api.FORCED_BY_SITE = 40
-api.DEFAULT_OF_SITE = 60
+api.DEFAULT_OF_SITE = 20 // ユーザーがチェックボックスを触らなかった
+api.CHOSEN_BY_USERS = 40 // 明示的同意。ユーザーが選択した（チェックボックスをクリックして on/off を変えた）
+api.FORCED_BY_SITE = 60 // ユーザーに利用許可/禁止の選択許可がないサービス
 ```
 
 ### 使用例
