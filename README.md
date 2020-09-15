@@ -26,9 +26,9 @@ api.get(serviceId)
 
 #### reason
 ```javascript
-api.DEFAULT_OF_SITE = 20 // ユーザーがチェックボックスを触らなかった場合
-api.CHOSEN_BY_USERS = 40 //  ユーザーが選択した（チェックボックスをクリックした）場合
-api.FORCED_BY_SITE = 60 // ユーザーが変更できない設定である場合
+api.DEFAULT_OF_SITE = 20 // ユーザーがチェックボックスを触らなかった
+api.CHOSEN_BY_USERS = 40 // 明示的同意。ユーザーが選択した（チェックボックスをクリックして on/off を変えた）
+api.FORCED_BY_SITE = 60 // ユーザーに利用許可/禁止の選択許可がないサービス
 ```
 
 ### 使用例
