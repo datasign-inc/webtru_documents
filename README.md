@@ -1,40 +1,15 @@
-## CMP同意状態取得API仕様書
+## はじめに
 
-### Getting Start
-```javascript
-const api = WebtruCmpApi(version="1.0")  
-const serviceId = 23
+このドキュメントは、プライバシーテック・スイート webtru (ウェブトゥルー) の開発者向けドキュメントです。
 
-api.get(serviceId)
-```
+## ドキュメント一覧
 
-### 同意状態の取得
-#### WebtruCmpApi.getAll()
-##### 戻り値: Object
-```javascript
-{ 22: {permitted: true, reason: 20}, 33: {permitted: false, reason: 40}}
-```
+### webtru同意管理 (CMP)
 
-#### WebtruCmpApi.get(serviceId)
-##### 引数: サービスID
-　　→ サービスIDは別ファイルで公開(Github)または個別提供。  
+同意管理ウィジェット(JavaScript)で保存されている同意状態を、他のJavaScriptから取得したい場合は、同意状態取得API仕様書をご参照ください。
 
-##### 戻り値
-```javascript
-{permitted: true, reason: 20}
-```
+[同意状態取得API仕様書](cmp_js_apis.md)
 
-#### reason
-```javascript
-api.DEFAULT_OF_SITE = 20 // ユーザーがチェックボックスを触らなかった
-api.CHOSEN_BY_USERS = 40 // 明示的同意。ユーザーが選択した（チェックボックスをクリックして on/off を変えた）
-api.FORCED_BY_SITE = 60 // ユーザーに利用許可/禁止の選択許可がないサービス
-```
+また、同意状態取得時に指定する`サービスID`は下記のサービスID一覧表を参照いただき、同意状態を取得したいサービスIDを指定してください。
 
-### 使用例
-```javascript
-const api = window.WebtruCmpApi(version=”1.0”)
-if (api.get(23).reason == api.FORCED_BY_SITE) {
-  // do something...
-}
-```
+[サービスID一覧表]()
