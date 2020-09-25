@@ -1,8 +1,8 @@
-## CMP同意状態取得API仕様書
+## CMP同意状態取得API仕様書 v0.1 (ベータ版)
 
 ### 使い方の例
 
-下記のように、`serviceID`を与えることで、その`serviceID`の同意状態を取得できます。
+下記のように`serviceID`を与えることで、その`serviceID`の同意状態を取得できます。
 サービスIDに関しては[サービスID一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit)をご確認ください。
 
 ```javascript
@@ -57,6 +57,8 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
 ```
 
 #### イベントリスナー
+
+下記のようにイベントリスナーを利用することで、CMPの同意状態が変更されたときに同意状態を取得できます。
 
 #### 使用例
 
