@@ -12,4 +12,4 @@
 
 また、同意状態取得時に指定する`サービスID`は下記のサービスID一覧表を参照いただき、同意状態を取得したいサービスIDを指定してください。
 
-[サービスID一覧表]()
+[サービスID一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit#gid=1489983941)
