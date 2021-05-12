@@ -65,8 +65,21 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
 
 下記のようにイベントリスナーを利用することで、CMP の同意状態が変更されたときに同意状態を取得できます。
 
-#### 使用例
+##### `WebtruCmpApi.on(eventName, fn)`
+
+ユーザがCMPの `保存` ボタンを押すことでCMPの同意状態に変更が起きた際に呼び出されます。
+
+###### 引数: 
+  - `eventName` `{String}`: `WebtruCmpApi.EVENT_CMP_SAVE` のみを許容
+  - `fn` `{Function}`: 
+    - `e` `{CustomEvent}`: 第一引数としてCustomEventが渡されます。また、その `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
+
+###### 戻り値: なし
 
 ```javascript
-TBD;
+const api = new WebtruCmpApi(version=”1.0”)
+api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
+  // do something... eg: console.log(e.detail)
+})
 ```
+
