@@ -1,3 +1,9 @@
+# 2022-06-22 Release
+
+## 機能
+
+- 同意管理プロで[履歴情報を参照](https://webtru.io/manual/cmppro-history-list)できるようになりました
+
 # 2022-06-08 Release
 
 ## 機能
