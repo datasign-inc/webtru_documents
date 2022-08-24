@@ -1,3 +1,13 @@
+# 2022-08-24 Release
+
+## 機能
+
+- 同意管理プロで[一覧表示モード](https://webtru.io/manual/cmppro-list-display-mode)が利用できるようになりました
+
+## その他
+
+- いくつかの機能改善、バグ修正が適用されました
+
 # 2022-08-09 Release
 
 ## 機能
