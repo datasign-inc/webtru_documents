@@ -1,3 +1,10 @@
+# 2022-09-21 Release
+
+## 機能
+
+- 同意管理プロの設置タグの属性でウィジェットの[表示言語を固定](https://webtru.io/manual/cmppro-language)できるようになりました
+
+
 # 2022-09-07 Release
 
 ## 機能
