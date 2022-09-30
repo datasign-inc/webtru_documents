@@ -19,7 +19,7 @@
 
 ## 機能
 
-- 同意管理プロで[一覧表示モード](https://webtru.io/manual/cmppro-list-display-mode)が利用できるようになりました
+- 機能追加は特にありません
 
 ## その他
 
