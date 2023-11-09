@@ -83,3 +83,14 @@ api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
 })
 ```
 
+### CSP挿入時のイベント
+
+ウィジェットによるCSPの挿入が完了すると `cmpWidget:cspInserted` イベントが発生します。
+
+#### 使用例
+
+```javascript
+document.addEventListener("cmpWidget:cspInserted", () => {
+  // do something... eg: insert script tags
+});
+```
