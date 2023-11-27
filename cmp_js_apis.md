@@ -83,9 +83,23 @@ api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
 })
 ```
 
+### ウィジェット表示時のイベント
+
+ウィジェットの表示が完了すると `cmpWidget:rendered` イベントが発生します。
+
+このイベントは同意管理プロには未実装です。
+
+#### 使用例
+
+```javascript
+document.addEventListener("cmpWidget:rendered", () => {
+  // do something...
+});
+```
+
 ### CSP挿入時のイベント
 
-ウィジェットによるCSPの挿入が完了すると `cmpWidget:cspInserted` イベントが発生します。
+ウィジェットによるCSPの挿入が完了すると `cmpWidget:cspInserted` （同意管理プロでは `cmp:cspInserted`） イベントが発生します。
 
 #### 使用例
 
