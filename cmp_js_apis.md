@@ -63,23 +63,34 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
 
 #### イベントリスナー
 
-下記のようにイベントリスナーを利用することで、CMP の同意状態が変更されたときに同意状態を取得できます。
+下記のようにイベントリスナーを利用することで、ウィジェットの操作状況または同意状態が変更されたときの同意状態を取得できます。
 
 ##### `WebtruCmpApi.on(eventName, fn)`
 
-ユーザがCMPの `保存` ボタンを押すことでCMPの同意状態に変更が起きた際に呼び出されます。
+ユーザがウィジェットを操作した際に呼び出されるイベントリスナーを登録します。
 
 ###### 引数: 
-  - `eventName` `{String}`: `WebtruCmpApi.EVENT_CMP_SAVE` のみを許容
+  - `eventName` `{String}`: 下記eventName一覧に記載の値のみ許容
   - `fn` `{Function}`: 
-    - `e` `{CustomEvent}`: 第一引数としてCustomEventが渡されます。また、その `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
+    - `e` `{CustomEvent}`: eventNameが `WebtruCmpApi.EVENT_CMP_SAVE` の場合、第一引数としてCustomEventが渡されます。また、その `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
 
 ###### 戻り値: なし
 
+###### eventName一覧
+  - `WebtruCmpApi.EVENT_CMP_SAVE`: ウィジェットの一覧画面で `選択した内容を反映する` ボタンを押す
+  - `WebtruCmpApi.EVENT_LIST_CLOSE`: ウィジェットの一覧画面を閉じる（×ボタンまたは一覧画面外をクリック）
+  - `WebtruCmpApi.EVENT_DIALOG_ACCEPTED`: ウィジェットのダイアログで `同意する` ボタンを押す
+  - `WebtruCmpApi.EVENT_DIALOG_DENIED`: ウィジェットのダイアログで `拒否する` ボタンを押す
+  - `WebtruCmpApi.EVENT_DIALOG_CLOSED`: ウィジェットのダイアログを閉じる（閉じるボタンまたは×ボタンをクリック）
+
+###### 使用例
 ```javascript
 const api = new WebtruCmpApi(version=”1.0”)
 api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
   // do something... eg: console.log(e.detail)
+})
+api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
+  // do something...
 })
 ```
 
