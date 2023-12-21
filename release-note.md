@@ -6,7 +6,7 @@
 
 ## その他
 
-- ウィジェットの要素にdata-nosnippet属性を追加しました
+- ウィジェットの要素にdata-nosnippet属性が追加されるようになりました
   - 検索エンジンの検索結果にウィジェット内の文言が表示されるのを防止します
 - 同意状態取得APIのイベントリスナーの発火条件を追加しました
   - ドキュメントの[WebtruCmpApi.on](https://github.com/datasign-inc/webtru_documents/blob/master/cmp_js_apis.md#webtrucmpapioneventname-fn)を参照ください
