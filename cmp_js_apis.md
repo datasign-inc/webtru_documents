@@ -85,7 +85,7 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
   - `WebtruCmpApi.EVENT_DIALOG_CLOSED`: ウィジェットのダイアログを閉じる（閉じるボタンまたは×ボタンをクリック）
   - `WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED`: ウィジェットのオプトアウトリンクを押す
 
-#### 使用例
+##### 使用例
 ```javascript
 const api = new WebtruCmpApi(version=”1.0”)
 api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
@@ -96,7 +96,7 @@ api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
 })
 ```
 
-##### `WebtruCmpApi.EVENT_LIST_OPENED` でどのボタンでウィジェットの一覧画面を開いたのか判定する方法
+###### `WebtruCmpApi.EVENT_LIST_OPENED` でどのボタンでウィジェットの一覧画面を開いたのか判定する方法
 
 `e.detail.ui` の値で判定します。
 
@@ -113,7 +113,7 @@ api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
 })
 ```
 
-##### 特定のサービスのオプトアウトリンクがクリックされた場合に処理を実行する方法
+###### 特定のサービスのオプトアウトリンクがクリックされた場合に処理を実行する方法
 
 `WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED` の場合、`e.detail.id`にオプトアウトリンクがクリックされたサービスのIDが渡されます。  
 下記のように判定することで特定のサービスの場合に処理を実行することができます。  
