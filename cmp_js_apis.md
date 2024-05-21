@@ -96,7 +96,7 @@ api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
 })
 ```
 
-###### `EVENT_LIST_OPENED` でどのボタンでイベントが発生したかを判定する方法
+##### `WebtruCmpApi.EVENT_LIST_OPENED` でどのボタンでウィジェットの一覧画面を開いたのか判定する方法
 
 `e.detail.ui` の値で判定します。
 
@@ -107,31 +107,26 @@ api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
 ```javascript
 const api = new WebtruCmpApi(version=”1.0”)
 api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
-　　　　if (event.detail.ui === “dialog") {
+　　　　if (e.detail.ui === “dialog") {
     // do something...
 　　　　}
 })
 ```
 
-###### `EVENT_LIST_OPENED` でどのボタンでイベントが発生したかを判定する方法
+##### 特定のサービスのオプトアウトリンクがクリックされた場合に処理を実行する方法
 
-`e.detail.ui` の値で判定します。
-
-- `dialog`: ダイアログ内のボタン
-- `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
-- `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
+`WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED` の場合、`e.detail.id`にオプトアウトリンクがクリックされたサービスのIDが渡されます。  
+下記のように判定することで特定のサービスの場合に処理を実行することができます。  
+サービスのIDは [サービス ID 一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit)をご確認ください。
 
 ```javascript
 const api = new WebtruCmpApi(version=”1.0”)
-api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
-　　　　if (event.detail.ui === “dialog") {
+api.on(WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED, function (e) {
+　　　　if (e.detail.id === 1091) {
     // do something...
 　　　　}
 })
 ```
-
-
-
 
 ### ウィジェット表示時のイベント
 
