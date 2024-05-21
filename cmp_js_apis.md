@@ -83,8 +83,9 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
   - `WebtruCmpApi.EVENT_DIALOG_ACCEPTED`: ウィジェットのダイアログで `同意する` ボタンを押す
   - `WebtruCmpApi.EVENT_DIALOG_DENIED`: ウィジェットのダイアログで `拒否する` ボタンを押す
   - `WebtruCmpApi.EVENT_DIALOG_CLOSED`: ウィジェットのダイアログを閉じる（閉じるボタンまたは×ボタンをクリック）
+  - `WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED`: ウィジェットのオプトアウトリンクを押す
 
-###### 使用例
+#### 使用例
 ```javascript
 const api = new WebtruCmpApi(version=”1.0”)
 api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
@@ -94,6 +95,43 @@ api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
   // do something...
 })
 ```
+
+###### `EVENT_LIST_OPENED` でどのボタンでイベントが発生したかを判定する方法
+
+`e.detail.ui` の値で判定します。
+
+- `dialog`: ダイアログ内のボタン
+- `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
+- `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
+
+```javascript
+const api = new WebtruCmpApi(version=”1.0”)
+api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
+　　　　if (event.detail.ui === “dialog") {
+    // do something...
+　　　　}
+})
+```
+
+###### `EVENT_LIST_OPENED` でどのボタンでイベントが発生したかを判定する方法
+
+`e.detail.ui` の値で判定します。
+
+- `dialog`: ダイアログ内のボタン
+- `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
+- `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
+
+```javascript
+const api = new WebtruCmpApi(version=”1.0”)
+api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
+　　　　if (event.detail.ui === “dialog") {
+    // do something...
+　　　　}
+})
+```
+
+
+
 
 ### ウィジェット表示時のイベント
 
