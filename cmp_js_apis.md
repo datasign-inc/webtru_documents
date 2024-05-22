@@ -73,7 +73,7 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
   - `eventName` `{String}`: 下記eventName一覧に記載の値のみ許容
   - `fn` `{Function}`: 
     - `e` `{CustomEvent}`: 下記eventNameの場合、第一引数としてCustomEventが渡されます
-      - `WebtruCmpApi.EVENT_CMP_SAVE` の場合: CustomEventの `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
+      - `WebtruCmpApi.EVENT_CMP_SAVE` の場合: CustomEventの `detail.detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
       - `WebtruCmpApi.EVENT_LIST_OPENED` の場合: CustomEventの `detail.ui` プロパティにてどのボタンでウィジェットの一覧画面を開いたのかが渡されます。uiで渡される値は以下のいずれかとなります。
         - `dialog`: ダイアログ内のボタン
         - `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
