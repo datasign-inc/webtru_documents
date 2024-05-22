@@ -72,7 +72,13 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
 ###### 引数: 
   - `eventName` `{String}`: 下記eventName一覧に記載の値のみ許容
   - `fn` `{Function}`: 
-    - `e` `{CustomEvent}`: eventNameが `WebtruCmpApi.EVENT_CMP_SAVE` の場合、第一引数としてCustomEventが渡されます。また、その `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
+    - `e` `{CustomEvent}`: 下記eventNameの場合、第一引数としてCustomEventが渡されます
+      - `WebtruCmpApi.EVENT_CMP_SAVE` の場合: CustomEventの `detail` プロパティにて最新の全ての外部サービスの同意状態(`WebtruCmpApi.getAll()` で得られるもの)が渡されます。
+      - `WebtruCmpApi.EVENT_LIST_OPENED` の場合: CustomEventの `detail.ui` プロパティにてどのボタンでウィジェットの一覧画面を開いたのかが渡されます。uiで渡される値は以下のいずれかとなります。
+        - `dialog`: ダイアログ内のボタン
+        - `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
+        - `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
+      - `WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED` の場合: CustomEventの `detail.id` プロパティにてオプトアウトリンクがクリックされたサービスのIDが渡されます。サービスのIDは [サービス ID 一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit)をご確認ください。
 
 ###### 戻り値: なし
 
@@ -93,38 +99,6 @@ api.on(WebtruCmpApi.EVENT_CMP_SAVE, function (e) {
 })
 api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
   // do something...
-})
-```
-
-###### `WebtruCmpApi.EVENT_LIST_OPENED` でどのボタンでウィジェットの一覧画面を開いたのか判定する方法
-
-`e.detail.ui` の値で判定します。
-
-- `dialog`: ダイアログ内のボタン
-- `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
-- `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
-
-```javascript
-const api = new WebtruCmpApi(version=”1.0”)
-api.on(WebtruCmpApi.EVENT_LIST_OPENED, function (e) {
-　　　　if (e.detail.ui === “dialog") {
-    // do something...
-　　　　}
-})
-```
-
-###### 特定のサービスのオプトアウトリンクがクリックされた場合に処理を実行する方法
-
-`WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED` の場合、`e.detail.id`にオプトアウトリンクがクリックされたサービスのIDが渡されます。  
-下記のように判定することで特定のサービスの場合に処理を実行することができます。  
-サービスのIDは [サービス ID 一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit)をご確認ください。
-
-```javascript
-const api = new WebtruCmpApi(version=”1.0”)
-api.on(WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED, function (e) {
-　　　　if (e.detail.id === 1091) {
-    // do something...
-　　　　}
 })
 ```
 
