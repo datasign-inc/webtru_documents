@@ -1,3 +1,17 @@
+# 2024-05-22 Release
+
+## 機能
+
+- 機能追加は特にありません
+
+## その他
+
+- 同意状態取得APIのイベントリスナーの発火条件を追加しました
+  - ドキュメントの[WebtruCmpApi.on](https://github.com/datasign-inc/webtru_documents/blob/master/cmp_js_apis.md#webtrucmpapioneventname-fn)を参照ください
+  - 追加された発火条件は以下のものです
+    - ウィジェットの一覧画面を開く
+    - ウィジェットのオプトアウトリンクを押す
+
 # 2024-04-24 Release
 
 ## 機能
