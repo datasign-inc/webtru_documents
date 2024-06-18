@@ -78,6 +78,7 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
         - `dialog`: ダイアログ内のボタン
         - `textButton`: 公表モード（ボタン方式） 及び オプトアウトモード（ボタン方式） のボタン
         - `button`: ダイアログやボタン方式のボタンを閉じた際に表示される歯車及びインフォメーションマークのボタン
+        - `link`: 公表モード（リンク方式）にて設置いただいたリンク
       - `WebtruCmpApi.EVENT_OPT_OUT_LINK_CLICKED` の場合: CustomEventの `detail.id` プロパティにてオプトアウトリンクがクリックされたサービスのIDが渡されます。サービスのIDは [サービス ID 一覧表](https://docs.google.com/spreadsheets/d/1z_80EI7lN1xcmuCcfgz2EVR3oxGzvcUTEpSks7hsZfI/edit)をご確認ください。
 
 ###### 戻り値: なし
