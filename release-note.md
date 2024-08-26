@@ -1,3 +1,10 @@
+# 2024-08-15 Release
+
+## 機能
+
+- Googleの同意モードv2に対応しました
+  - 設置手順は[マニュアル](https://webtru.zendesk.com/hc/ja/articles/36398940797593)をご参照ください
+
 # 2024-08-01 Release
 
 ## 機能
