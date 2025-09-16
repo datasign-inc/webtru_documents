@@ -87,6 +87,7 @@ if (api.get(23).reason == api.FORCED_BY_SITE) {
   - `WebtruCmpApi.EVENT_CMP_SAVE`: ウィジェットの一覧画面で `選択した内容を反映する` ボタンを押す
   - `WebtruCmpApi.EVENT_LIST_OPENED`: ウィジェットの一覧画面を開く
   - `WebtruCmpApi.EVENT_LIST_CLOSE`: ウィジェットの一覧画面を閉じる（×ボタンまたは一覧画面外をクリック）
+  - `WebtruCmpApi.EVENT_DIALOG_OPENED`: ウィジェットのダイアログが表示される
   - `WebtruCmpApi.EVENT_DIALOG_ACCEPTED`: ウィジェットのダイアログで `同意する` ボタンを押す
   - `WebtruCmpApi.EVENT_DIALOG_DENIED`: ウィジェットのダイアログで `拒否する` ボタンを押す
   - `WebtruCmpApi.EVENT_DIALOG_CLOSED`: ウィジェットのダイアログを閉じる（閉じるボタンまたは×ボタンをクリック）
