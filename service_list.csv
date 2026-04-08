@@ -1,4 +1,4 @@
-﻿service_id,name,name_ja,url
+service_id,name,name_ja,url
 2,SATORI,SATORI,https://satori.marketing/
 3,Google Fonts,Google Fonts,https://fonts.google.com/
 4,Google Tag Manager,Googleタグマネージャ,https://marketingplatform.google.com/about/tag-manager/
@@ -69,7 +69,7 @@
 109,ADPLAN,ADPLAN,
 111,Adify,Adify,
 112,Identity Data Management Platform,Identity Data Management Platform,https://www.transunion.com/insights
-117,akamaihd.net,akamaihd.net,
+117,akamaihd.net,akamaihd.net,https://www.akamai.com/ja
 120,Amazon Associates,Amazonアソシエイト,https://affiliate-program.amazon.com/
 122,Amazon Pay,Amazon Pay,https://pay.amazon.co.jp/
 123,Amazon S3,Amazon S3,https://aws.amazon.com/s3/
@@ -82,7 +82,7 @@
 142,essentia,essentia,https://www.auriq.co.jp/products/essentia/
 143,ucfunnel,ucfunnel,https://www.ucfunnel.com/
 147,Microsoft Ajax Content Delivery Network,Microsoft Ajax Content Delivery Network,https://learn.microsoft.com/en-us/aspnet/ajax/cdn/
-148,Atlas,Atlas,https://www.facebook.com/business/measurement
+148,Atlas Solutions,Atlas Solutions,https://www.facebook.com/business/measurement
 149,WideOrbit,WideOrbit,https://www.wideorbit.com/
 153,Baidu Statistics,Baidu Statistics,https://tongji.baidu.com/web5/welcome/login?castk=LTE%3D
 158,Baynote,Baynote,https://kibocommerce.com/
@@ -301,7 +301,7 @@
 800,StackPile,StackPile,https://stackpile.io/
 803,STEELHOUSE,STEELHOUSE,https://mountain.com/
 805,FreeWheel,FreeWheel,https://www.freewheel.com/
-806,Company stock price display service,自社株価表示サービス,https://about.stockweather.co.jp/contents/servIr.html
+806,IR palette,IRパレット,https://www.irpalette.com/
 808,J-Stream,J-Stream,https://www.stream.co.jp/
 810,STREAMRAIL,STREAMRAIL,
 817,SUUMO Business Info,SUUMOビジネスインフォ,https://business.suumo.jp/
@@ -606,7 +606,7 @@
 1244,Zoho CRM,Zoho CRM,https://www.zoho.com/
 1245,PubNub,PubNub,https://www.pubnub.com/
 1246,ShowTalk,ShowTalk,https://showtalk.co.jp/
-1247,GroupM Nexus,GroupM Nexus,https://www.groupm.com/
+1247,WPP Media,WPP Media,https://www.groupm.com/
 1248,Viant,Viant,https://www.viantinc.com/
 1249,Ameba,Ameba,https://ameba-ad-pr.amebaownd.com/
 1250,LinkedIn Ads,LinkedIn Ads,https://business.linkedin.com/advertise/ads
@@ -636,7 +636,7 @@
 1277,widgetoon.js,widgetoon.js,
 1278,Digilant,Digilant,https://digilant.com/
 1279,OWNLY,OWNLY,https://www.ownly.jp/
-1280,XJ-Storage,XJ-Storage,https://www.wizlabo.jp/
+1280,WizLabo,WizLabo,https://www.wizlabo.jp/
 1282,NAVITIME Store Guide ASP,NAVITIME 店舗案内ASP,https://location-cloud.navitime.co.jp/media?frm=oldsite
 1283,IR POCKET,IRポケット,https://irpocket.com/
 1284,MobileMK,MobileMK,
@@ -1324,7 +1324,7 @@
 2002,Google AMP Client ID Library,Google AMP Client ID Library,https://github.com/google/amp-client-id-library
 2003,LiveRamp Privacy Manager,LiveRamp Privacy Manager,https://liveramp.com/our-platform/
 2004,Ligla,Ligla,https://ligla.jp/
-2005,TikTok Analytics,TikTok Analytics,
+2005,TikTok Analytics,TikTok Analytics,https://www.tiktok.com/creator-academy/en/article/tool-analytics-intro
 2006,Amazon API Gateway,Amazon API Gateway,https://aws.amazon.com/api-gateway/
 2007,athome HomePage Tools,athome ホームページ作成ツール,https://business.athome.jp/service/hp_tool/
 2008,SIMPLE BOOK,シンプルブック,https://www.sb2-demo.com/
@@ -1944,3 +1944,16 @@
 2661,AWS Certificate Manager,AWS Certificate Manager,https://aws.amazon.com/jp/certificate-manager/
 2662,IZANAI Powered by OpenAI,IZANAI Powered by OpenAI,https://ai.cloudcircus.jp/
 2663,DOCOMO affiliate,ドコモ アフィリエイト,https://affiliate.docomo.ne.jp/
+2664,AnyGift,AnyGift,https://anygift.jp/
+2665,DATA CONTROL,DATA CONTROL,https://lp.sold-out.co.jp/data_control
+2666,Dejam,Dejam,https://leango.co.jp/dejam/
+2667,Oracle Digital Assistant,Oracle Digital Assistant,https://www.oracle.com/chatbots/
+2668,Account Engagement(iPark Institute),Account Engagement(アイパークインスティチュート),https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
+2669,Account Engagement(HEISHIN),Account Engagement(兵神装備),https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
+2672,Omakase.ai,Omakase.ai,https://www.omakase.ai/
+2673,Ahrefs Web Analytics,Ahrefsウェブアナリティクス,https://ahrefs.com/web-analytics
+2674,Clipkit(AISIN),Clipkit(アイシン),https://act.aisin.co.jp/
+2675,Qualtrics (Ricoh),Qualtrics (Ricoh),https://survey.ricoh.com
+2677,Global-e,Global-e,https://www.global-e.com/
+2680,Point Concent,ポイント・コンセント,https://www.g-plan.net/service/solution/pointconcent
+2681,web connect,webコネクト,https://webconnect.forcia.com/aboutwc.html
