@@ -108,8 +108,6 @@ api.on(WebtruCmpApi.EVENT_DIALOG_ACCEPTED, function () {
 
 ウィジェットの表示が完了すると `cmpWidget:rendered` イベントが発生します。
 
-このイベントは同意管理プロには未実装です。
-
 #### 使用例
 
 ```javascript
@@ -120,12 +118,26 @@ document.addEventListener("cmpWidget:rendered", () => {
 
 ### CSP挿入時のイベント
 
-ウィジェットによるCSPの挿入が完了すると `cmpWidget:cspInserted` （同意管理プロでは `cmp:cspInserted`） イベントが発生します。
+ウィジェットによるCSPの挿入が完了すると `cmpWidget:cspInserted` イベントが発生します。  
+通信許可デフォルト状態で「通信制御なし」を設定している場合は発生しません。
 
 #### 使用例
 
 ```javascript
 document.addEventListener("cmpWidget:cspInserted", () => {
+  // do something... eg: insert script tags
+});
+```
+
+### サードパーティタグ発火準備完了時のイベント
+
+ウィジェットの初期化が完了し、サードパーティタグを発火させても安全な状態になると `cmpWidget:thirdPartyReady` イベントが発生します。  
+通信許可デフォルト状態で「通信制御なし」を設定している場合でも発生します。
+
+#### 使用例
+
+```javascript
+document.addEventListener("cmpWidget:thirdPartyReady", () => {
   // do something... eg: insert script tags
 });
 ```
