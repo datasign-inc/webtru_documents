@@ -16,14 +16,14 @@ service_id,name,name_ja,url
 16,Adobe Audience Manager,Adobe Audience Manager,https://business.adobe.com/products/audience-manager/adobe-audience-manager.html
 17,Rtoaster,Rtoaster,https://www.brainpad.co.jp/rtoaster/
 18,Microsoft Invest,Microsoft Invest,https://qa-about.ads.microsoft.com/ja/solutions/technology/microsoft-invest-dsp
-19,AXON,AXON,
+19,AXON,AXON,""
 20,MicroAd,マイクロアド,https://www.microad.co.jp/services/adplatform/
 22,Rakuten Affiliate,楽天アフィリエイト,https://affiliate.rakuten.co.jp/
 23,Criteo,Criteo,https://www.criteo.com/
 24,FreakOut,FreakOut,https://www.fout.co.jp/
 25,PubMatic,PubMatic,https://pubmatic.co.jp/
-26,DataCurrent Measurement Tag,DataCurrent計測タグ,
-27,Nexxen DSP,Nexxen DSP,https://nexxen.com/nexxen-dsp-ssp/
+26,DataCurrent Measurement Tag,DataCurrent計測タグ,""
+27,Nexxen DSP,Nexxen DSP,https://nexxen.com/dsp-ssp/
 28,Verizon Media AD Platforms,Verizon Media AD Platforms,https://www.verizonmedia.com/advertising/publishers/solutions#/platforms
 29,Yahoo DSP,Yahoo DSP,https://www.yahooinc.com/yahoo-dsp
 30,The Trade Desk,The Trade Desk,https://www.thetradedesk.com/uk
@@ -37,37 +37,37 @@ service_id,name,name_ja,url
 40,Cinarra,シナラ,https://cinarra.co.jp/
 41,Meta Ads,Meta広告,https://www.facebook.com/business/ads
 43,Akamai,Akamai,https://www.akamai.com/ja
-44,Akamai EdgeSuite Service,Akamai EdgeSuiteサービス,
-50,StackPath,StackPath,
-51,ReadscopePro,リードスコープPro,
-52,mediagene,メディアジーン,
+44,Akamai EdgeSuite Service,Akamai EdgeSuiteサービス,""
+50,StackPath,StackPath,""
+51,ReadscopePro,リードスコープPro,""
+52,mediagene,メディアジーン,""
 55,B-dash,B-dash,https://bdash-marketing.com/
 56,Display & Video 360,Display & Video 360,https://marketingplatform.google.com/about/display-video-360/
 57,Adobe Marketo Engage,Adobe Marketo Engage,https://business.adobe.com/products/marketo.html
 60,Humara,Humara,https://www.humara.com/
 62,Adobe Analytics,Adobe Analytics,https://business.adobe.com/products/analytics/adobe-analytics.html
-64,Improve Digital ORIGIN,Improve Digital ORIGIN,https://improvedigital.com/origin/
+64,Improve Digital ORIGIN,Improve Digital ORIGIN,https://ssp.improvedigital.com/login
 65,triplelift,triplelift,https://triplelift.com/
 69,Activecore,アクティブコア,https://www.activecore.co.jp/
 70,A8.net,A8.net,https://www.a8.net/
 77,AdStir,AdStir,https://ja.ad-stir.com/
-78,cci AdVantage Hybrid,cci AdVantage Hybrid,
+78,cci AdVantage Hybrid,cci AdVantage Hybrid,""
 79,Sphere,Sphere,https://www.p-engine.co.jp/
-83,AddThis,AddThis,
+83,AddThis,AddThis,""
 85,AddToAny,AddToAny,https://www.addtoany.com/
 86,adform,adform,https://site.adform.com/
 87,fluct,fluct,https://corp.fluct.jp/service/ssp/
 89,DLPO,DLPO,https://dlpo.jp/product/
 91,AdMatrix,AdMatrix,https://www.admatrix.jp/dsp/
-93,Edge Animate,Edge Animate,
+93,Edge Animate,Edge Animate,""
 94,Adobe Experience Platform Data Collection,Adobe Experience Platform Data Collection,https://business.adobe.com/products/experience-platform/adobe-experience-platform.html
 96,Pixalate,Pixalate,https://www.pixalate.com/
 99,Integral Ad Science,Integral Ad Science,https://integralads.com/
 100,AdScale,AdScale,https://adscale.com/
-104,LinkedIn Marketing Solutions,LinkedIn マーケティングソリューション,https://business.linkedin.com/marketing-solutions
+104,LinkedIn Marketing Solutions,LinkedIn マーケティングソリューション,https://business.linkedin.com/advertise
 105,AJA DSP,AJA DSP,https://aja-kk.co.jp/#service
-109,ADPLAN,ADPLAN,
-111,Adify,Adify,
+109,ADPLAN,ADPLAN,""
+111,Adify,Adify,""
 112,Identity Data Management Platform,Identity Data Management Platform,https://www.transunion.com/insights
 117,akamaihd.net,akamaihd.net,https://www.akamai.com/ja
 120,Amazon Associates,Amazonアソシエイト,https://affiliate-program.amazon.com/
@@ -86,9 +86,9 @@ service_id,name,name_ja,url
 149,WideOrbit,WideOrbit,https://www.wideorbit.com/
 153,Baidu Statistics,Baidu Statistics,https://tongji.baidu.com/web5/welcome/login?castk=LTE%3D
 158,Baynote,Baynote,https://kibocommerce.com/
-165,Beyond Security,Beyond Security,https://www.fortra.com/product-lines/beyond-security
+165,Beyond Security,Beyond Security,https://www.fortra.com/beyond-security
 169,BidSwitch,BidSwitch,https://www.bidswitch.com/
-170,BIG MINING,BIG MINING,
+170,BIG MINING,BIG MINING,""
 172,Microsoft Advertising,Microsoft 広告,https://ads.microsoft.com/
 176,livedoor Blog,ライブドアブログ,https://blog.livedoor.com/
 177,blogmura,にほんブログ村,https://blogmura.com/
@@ -96,14 +96,14 @@ service_id,name,name_ja,url
 183,Boldchat,Boldchat,https://www.genesys.com/capabilities/live-chat-software
 184,BootstrapCDN,BootstrapCDN,https://www.bootstrapcdn.com/
 185,BounceX,BounceX,https://www.wunderkind.co/
-187,BrickTools,BrickTools,
+187,BrickTools,BrickTools,""
 188,Brightcove,Brightcove,https://www.brightcove.com/
 190,Browser-Update.org,Browser-Update.org,https://browser-update.org/
 191,BrightRoll,BrightRoll,https://www.adtech.yahooinc.com/advertiser#/platforms
 192,Signal,Signal,https://www.transunion.com/industry/media-and-entertainment
-193,Bidtellect,Bidtellect,
-198,CAMP,CAMP,
-204,Online advertising exchange (Index Exchange),Online advertising exchange (Index Exchange),
+193,Bidtellect,Bidtellect,""
+198,CAMP,CAMP,""
+204,Online advertising exchange (Index Exchange),Online advertising exchange (Index Exchange),""
 216,Chartbeat,Chartbeat,https://chartbeat.com/
 223,Cint,Cint,https://www.cint.com/
 225,Clicktale,Clicktale,https://contentsquare.com/clicktale/
@@ -113,49 +113,49 @@ service_id,name,name_ja,url
 234,Hitwise,Hitwise,https://www.connexity.com/
 235,contentsfeed.com,contentsfeed.com,https://www.a1platform.co.kr/a1videoterms
 236,ContextWeb,ContextWeb,https://www.pulsepoint.com/
-237,HIKIAGERU,ヒキアゲール,
+237,HIKIAGERU,ヒキアゲール,""
 238,Cookpad Ads,クックパッド広告,https://ad.cookpad.jp/
 245,Crazy Egg,Crazy Egg,https://w3.crazyegg.com/
-250,DataDesk,DataDesk,
+250,DataDesk,DataDesk,""
 251,LOTAME,LOTAME,https://www.lotame.com/
 253,Crimtan,Crimtan,https://crimtan.com/
 254,Piano Audience,Piano Audience,https://www.piano.io/product/audience
 256,CyberTrust,CyberTrust,https://www.cybertrust.co.jp/
 272,deqwas,デクワス,https://zeta.inc/
-273,deteql,デテクル,
+273,deteql,デテクル,""
 274,i-search,i-search,https://scala-com.jp/i-search/
 277,DigiCert,DigiCert,https://www.digicert.com/
 280,DISQUS,DISQUS,https://disqus.com/
 283,docodoco JP,どこどこJP,https://www.docodoco.jp/
-284,docomo Analytics,docomo Analytics,
+284,docomo Analytics,docomo Analytics,""
 285,docomo Ad Network,docomo Ad Network,https://www.d2c.co.jp/solutions/docomo-media/docomo-ad-network/
 286,Magnetic,Magnetic,https://www.deloittedigital.com/us/en/offerings/customer-led-marketing/advertising--marketing-and-commerce/hux.html/us/en/offerings/customer-led-marketing/advertising--marketing-and-commerce/hux.html
 291,Dynamic Yield,Dynamic Yield,https://www.dynamicyield.com/
 292,Internet shop ranking,ネットショップランキング,https://www.e-shops.jp/
 299,AD EBiS,AD EBiS,https://www.ebis.ne.jp/
-300,eco-tag,エコタグ,
+300,eco-tag,エコタグ,""
 303,Narratiive,Narratiive,https://www.narrative.io/
 305,E-IR,E-IR,https://www.pronexus.co.jp/business/ipo/
 311,Ensighten,Ensighten,https://cheq.ai/ensighten/
 313,EQ,EQ,https://eqworks.com/
-318,Everest Technology,Everest Technology,https://www.everesttech.com/?c=us
+318,Everest Technology,Everest Technology,https://everesttech.com/?c=us
 321,eXelate,eXelate,https://www.nielsen.com/solutions/media-planning/marketing-cloud/
 322,Excite Blog,エキサイトブログ,https://www.exblog.jp/
 326,Digital Remedy,Digital Remedy,https://www.digitalremedy.com/
 327,Eyeota,Eyeota,https://www.eyeota.com/
-328,Eyereturn,Eyereturn,
+328,Eyereturn,Eyereturn,""
 333,fastly,fastly,https://www.fastly.com/
-334,fbcdn.net,fbcdn.net,
+334,fbcdn.net,fbcdn.net,""
 335,FC2 Blog,FC2ブログ,https://blog.fc2.com/
 336,Zexy Baby,ゼクシィBaby,https://zexybaby.zexy.net/
 337,felmat,felmat,https://www.felmat.net/
 339,Flipdesk,Flipdesk,https://materialdigital.jp/service/flipdesk/
 345,FONTPLUS,FONTPLUS,https://fontplus.jp/home
-352,freegeoip.net,freegeoip.net,
+352,freegeoip.net,freegeoip.net,""
 355,FullStory,FullStory,https://www.fullstory.com/
 356,futureshop,futureshop,https://www.future-shop.jp/
 366,Geotrust,ジオトラスト,https://www.geotrust.com/
-368,Pocket,Pocket,
+368,Pocket,Pocket,""
 372,Gigya,Gigya,https://www.sap.com/products/crm/customer-data-platform.html
 375,GitHub,GitHub,https://github.com/
 379,GlobalSign,GlobalSign,https://www.globalsign.com/en
@@ -186,7 +186,7 @@ service_id,name,name_ja,url
 456,Innity,Innity,https://www.innity.com/
 462,Instagram,Instagram,https://www.instagram.com/
 464,SiteGraphics,SiteGraphics,https://www.videor.co.jp/service/media-data/sitegraphics.html
-469,iogous,iogous,
+469,iogous,iogous,""
 471,IP-API,IP-API,https://ip-api.com/
 476,IXI Services,IXI Services,https://www.equifax.com/business/marketing/
 477,Jalan.net,じゃらんnet,https://www.jalan.net/
@@ -210,36 +210,36 @@ service_id,name,name_ja,url
 539,MarinOne,MarinOne,https://www.marinsoftware.com/
 545,MathJax,MathJax,https://www.mathjax.org/
 546,Infillion MediaMath,Infillion MediaMath,https://infillion.com/products/infillion-mediamath/
-548,Oracle Maximiser,Oracle Maximiser,
+548,Oracle Maximiser,Oracle Maximiser,""
 553,Media.net,Media.net,https://www.media.net/
 554,Dstillery,Dstillery,https://dstillery.com/
-555,MediaForge,MediaForge,
+555,MediaForge,MediaForge,""
 557,Conversant Ad Server,Conversant Ad Server,https://www.epsilon.com/emea/products-and-services/epsilon-peoplecloud
 567,FeedWind,FeedWind,https://feed.mikle.com/
 570,mixi Plugin,mixi Plugin,https://developer.mixi.co.jp/connect/mixi_plugin/
 572,Mixpanel,Mixpanel,https://mixpanel.com/home/
 574,MADISON LOGIC,MADISON LOGIC,https://www.madisonlogic.com/
 577,Moat,Moat,https://www.oracle.com/cx/advertising/measurement/
-579,MOBYLOG,MOBYLOG,
+579,MOBYLOG,MOBYLOG,""
 586,Microsoft Azure CDN,Microsoft Azure CDN,https://azure.microsoft.com/ja-jp/products/cdn/
 590,Valassis Digital,Valassis Digital,https://www.vericast.com/?src=val
-592,Mynavi Logo,マイナビ新卒採用ロゴ,
+592,Mynavi Logo,マイナビ新卒採用ロゴ,""
 594,myThings,myThings,http://www.mythings.com/
 596,User Insight,User Insight,https://ui.userlocal.jp/
 602,navicast,ナビキャスト,https://www.showcase-tv.com/service/
-607,nend,nend,
-608,IgnitionOne,IgnitionOne,
+607,nend,nend,""
+608,IgnitionOne,IgnitionOne,""
 609,Inuvo,Inuvo,https://inuvo.com/
 610,New Relic Browser,New Relic Browser,https://newrelic.com/platform/browser-monitoring
 619,nex8,nex8,https://www.nex8.net/
 620,Oracle Advertising,Oracle Advertising,https://www.oracle.com/jp/cx/advertising/
-628,Ninthdecimal,Ninthdecimal,
+628,Ninthdecimal,Ninthdecimal,""
 641,ADYOULIKE,ADYOULIKE,https://www.adyoulike.com/
 643,OneSignal,OneSignal,https://onesignal.com/
 645,IO,IO,https://public.iotechnologies.com/
 652,Optimizely,Optimizely,https://www.optimizely.com/
 654,Outbrain Direct Response,Outbrain Direct Response,https://www.outbrain.com/
-656,ownerIQ,ownerIQ,https://www.owneriq.com/
+656,ownerIQ,ownerIQ,""
 657,Blockthrough,Blockthrough,https://blockthrough.com/
 659,Omnibus,Omnibus,https://e-omnibus.co.jp/
 661,Account Engagement,Account Engagement,https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
@@ -251,7 +251,7 @@ service_id,name,name_ja,url
 676,Arbor,Arbor,https://liveramp.com/
 678,po.st,po.st,https://www.po.st/
 683,popIn,popIn,https://discovery.popin.cc/home/
-687,NATIVO,NATIVO,https://www.nativo.com/
+687,NATIVO,NATIVO,https://ads.life360.com/
 690,Perfect Audience,Perfect Audience,https://sharpspring.com/
 691,Datonics,Datonics,https://www.datonics.com/
 692,GENIEE SEARCH(probo),GENIEE SEARCH(probo),https://www.bsearchtech.com/products/probo/
@@ -259,21 +259,22 @@ service_id,name,name_ja,url
 694,Ptengine,Ptengine,https://www.ptengine.jp/
 702,Qualtrics,Qualtrics,https://www.qualtrics.com/
 703,QUANT,QUANT,https://pf.quant.page/
-707,Lierco,Lierco,
+707,Lierco,Lierco,""
 708,Rackspace CDN,Rackspace CDN,https://www.rackspace.com/cloud/public
 714,Realtime Framework,Realtime Framework,https://framework.realtime.co/
+718,Reddit Ads,Reddit Ads,https://www.business.reddit.com/
 720,responsiveads.com,responsiveads.com,https://responsiveads.com/
 727,Sizmek(Rocket Fuel),Sizmek(Rocket Fuel),https://advertising.amazon.com/adtech-solutions/amazon-ad-server?ref_=a20m_us_sas_rdrct
 730,richrelevance,richrelevance,https://richrelevance.com/
 731,Riskified,Riskified,https://www.riskified.com/
 732,Merkle,Merkle,https://www.merkle.com/
 733,TowerData,TowerData,https://atdata.com/
-735,Akamai Identity Cloud,Akamai Identity Cloud,https://www.akamai.com/ja/products/identity-cloud
+735,Akamai Identity Cloud,Akamai Identity Cloud,https://www.akamai.com/resources/product-brief/identity-cloud
 738,Magnite,Magnite,https://www.magnite.com/
 743,Salesforce Live Agent,Salesforce Live Agent,https://www.salesforce.com/jp/service/cloud/?bc=OSC
-745,Samba TV,Samba TV,https://www.samba.tv/
+745,Samba TV,Samba TV,https://samba.tv/
 749,ScorecardResearch,ScorecardResearch,https://www.scorecardresearch.com/home.aspx
-751,AkaNe,AkaNe,
+751,AkaNe,AkaNe,""
 753,Secured Visit,Secured Visit,http://securedvisit.com/
 755,select media,select media,https://www.selectmedia.asia/
 760,Amazon Ads,Amazon 広告,https://advertising.amazon.com/adtech-solutions/amazon-ad-server?ref_=a20m_us_sas_rdrct
@@ -282,7 +283,7 @@ service_id,name,name_ja,url
 766,Ninja AdMax,忍者AdMax,https://www.ninja.co.jp/admax/
 767,Color Me Shop,カラーミーショップ,https://shop-pro.jp/
 768,Shufoo!,Shufoo!,https://www.shufoo.net/
-769,shutto,shutto,
+769,shutto,shutto,""
 770,sibulla,シビラ,http://www.sibulla.com/
 771,Silver Egg,Silver Egg,https://www.silveregg.co.jp/
 773,simplfi,simplfi,https://simpli.fi/
@@ -296,15 +297,15 @@ service_id,name,name_ja,url
 791,JetStream,JetStream,https://sonobi.com/
 795,SpotX,SpotX,https://www.magnite.com/
 796,Sprocket,スプロケット,https://www.sprocket.bz/
-797,Amazon Product Advertising API,Amazon Product Advertising API,
+797,Amazon Product Advertising API,Amazon Product Advertising API,""
 798,Hatena Blog Media,はてなブログMedia,https://www.hatena.ne.jp/cms/
-800,StackPile,StackPile,https://stackpile.io/
+800,StackPile,StackPile,https://sitespeak.ai
 803,STEELHOUSE,STEELHOUSE,https://mountain.com/
 805,FreeWheel,FreeWheel,https://www.freewheel.com/
 806,IR palette,IRパレット,https://www.irpalette.com/
 808,J-Stream,J-Stream,https://www.stream.co.jp/
-810,STREAMRAIL,STREAMRAIL,
-817,SUUMO Business Info,SUUMOビジネスインフォ,
+810,STREAMRAIL,STREAMRAIL,""
+817,SUUMO Business Info,SUUMOビジネスインフォ,""
 820,Swiftype,Swiftype,https://swiftype.com/
 822,switch,switch,https://www.switch-concepts.com/
 824,SyncSearch,SyncSearch,https://www.syncsearch.jp/
@@ -314,8 +315,8 @@ service_id,name,name_ja,url
 834,teamLabRecommend,チームラボレコメンド,https://www.team-lab.com/teamlabrecommend/
 842,TenMax,TenMax,https://www.tenmax.io/tw/
 843,Buyee,Buyee,https://www.tenso.com/
-845,TagKnight,タグナイト,
-854,Videology Platform,Videology Platform,
+845,TagKnight,タグナイト,""
+854,Videology Platform,Videology Platform,""
 866,Visionalist,ビジョナリスト,https://www.visionalist.com/
 870,Treasure AI,Treasure AI,https://www.treasure.ai/
 872,exponential,exponential,https://www.exponential.com/
@@ -325,15 +326,15 @@ service_id,name,name_ja,url
 885,Adobe Typekit,Adobe Typekit,https://fonts.adobe.com/fonts
 886,TypeSquare,TypeSquare,https://typesquare.com/
 891,Nexxen,Nexxen,https://nexxen.com/
-895,us-fbcdn.net,us-fbcdn.net,
+895,us-fbcdn.net,us-fbcdn.net,""
 897,USERDIVE,USERDIVE,https://www.uncovertruth.co.jp/service/userdive/
 898,UserReport,UserReport,https://userreport.com/
 899,uSonar,ユーソナー,https://usonar.co.jp/service/usonar/
 901,Value Commerce Affiliate,バリューコマース アフィリエイト,https://www.valuecommerce.ne.jp/
-904,Ve,Ve,
+904,Ve,Ve,""
 906,Verisign,Verisign,https://www.verisign.com/
-908,Yahoo Video Syndication,Yahoo Video Syndication,
-910,Vilynx,Vilynx,
+908,Yahoo Video Syndication,Yahoo Video Syndication,""
+910,Vilynx,Vilynx,""
 911,Vimeo,Vimeo,https://vimeo.com/
 913,Vindico,Vindico,https://advertising.amazon.com/adtech-solutions/amazon-ad-server?ref_=a20m_us_sas_rdrct
 915,VisualDNA,VisualDNA,https://panels.nielsen.com/panels-and-surveys/locations/#visual-dna
@@ -342,24 +343,24 @@ service_id,name,name_ja,url
 923,VERVE,VERVE,https://verve.com/
 927,Walmart Connect,Walmart Connect,https://www.walmartconnect.com/
 931,WebAntenna,WebAntenna,https://www.bebit.co.jp/webantenna/
-932,PlaCo,PlaCo,
+932,PlaCo,PlaCo,""
 933,Weborama,Weborama,https://www.weborama.com/
-935,WebSpectator,WebSpectator,
-936,adcloud FP,adcloud FP,
+935,WebSpectator,WebSpectator,""
+936,adcloud FP,adcloud FP,""
 937,Webtrends,Webtrends,https://www.webtrends.com/
 947,Woopra,Woopra,https://www.woopra.com/
 951,WordPress.com,WordPress.com,https://wordpress.com/
 954,WURFL,WURFL,https://web.wurfl.io/
 957,Xlisting,クロスリスティング,https://www.xlisting.co.jp/
-958,xplosion interactive,xplosion interactive,
+958,xplosion interactive,xplosion interactive,""
 960,Yahoo Native Ads,Yahoo Native Ads,https://adspecs.yahooinc.com/native-ads
 961,Yahoo! UI Library,Yahoo! UI Library,https://clarle.github.io/yui3/
 963,Yieldlab,Yieldlab,https://virtualminds.com/yieldlab/
-964,Yieldex Analytics,Yieldex Analytics,
+964,Yieldex Analytics,Yieldex Analytics,""
 967,Yahoo! Tag Manager,Yahoo! タグマネージャー,https://www.lycbiz.com/jp/service/yahoo-tag-manager/
-968,Yieldbot,Yieldbot,
+968,Yieldbot,Yieldbot,""
 969,YouTube,YouTube,https://www.youtube.com/
-971,ZEDO,ZEDO,
+971,ZEDO,ZEDO,""
 972,Zemanta,Zemanta,https://www.zemanta.com/
 973,AiDeal,AiDeal,https://www.appier.com/en/products/aideal
 975,Zexy,ゼクシィ,https://zexy.net/
@@ -373,7 +374,7 @@ service_id,name,name_ja,url
 989,Tealium iQ,Tealium iQ,https://tealium.com/products/tealium-iq-tag-management-system/
 990,X Ads,X広告,https://business.x.com/ja/advertising
 995,LY Ads,LINEヤフー広告,https://www.lycbiz.com/jp/service/ly-ads/
-996,digitalice,デジタリス,
+996,digitalice,デジタリス,""
 997,RealVu,RealVu,https://www.realvu.com/
 999,MARS FINDER,MARS FINDER,https://www.marsflag.com/ja/services/marsfinder/
 1000,iZooto,iZooto,https://izooto.com/
@@ -384,7 +385,7 @@ service_id,name,name_ja,url
 1005,MIERUCA heatmap,ミエルカヒートマップ,https://mieru-ca.com/heatmap/
 1006,Simple IP Address API,Simple IP Address API,https://www.ipify.org/
 1007,Slide Share,Slide Share,https://www.slideshare.net/
-1008,Tagment,Tagment,
+1008,Tagment,Tagment,""
 1009,Twilio Segment,Twilio Segment,https://www.twilio.com/en-us/segment
 1010,Mapp,Mapp,https://mapp.com/
 1011,UNPKG,UNPKG,https://unpkg.com/
@@ -394,30 +395,30 @@ service_id,name,name_ja,url
 1015,Wistia,Wistia,https://wistia.com/
 1016,Gauges,Gauges,https://get.gaug.es/
 1017,bellFace,ベルフェイス,https://bell-face.com/
-1018,Dot metrix,ドットメトリックス,
-1019,Kissmetrics,Kissmetrics,https://www.kissmetrics.io/
+1018,Dot metrix,ドットメトリックス,""
+1019,Kissmetrics,Kissmetrics,https://kissmetrics.io/
 1020,Kairos3 MA,Kairos3 MA,https://www.kairosmarketing.net/marketing-automation
 1022,HotProfile,HotProfile,https://www.hammock.jp/hpr/
 1023,List Finder,List Finder,https://promote.list-finder.jp/
-1024,RightSegment,RightSegment,
+1024,RightSegment,RightSegment,""
 1025,Dynalyst,Dynalyst,https://www.dynalyst.io/
 1026,Display & Video 360( Bid Manager ),Display & Video 360( Bid Manager ),https://marketingplatform.google.com/about/display-video-360/
 1027,Floodlight,Floodlight,https://support.google.com/campaignmanager/answer/3027419?visit_id=638174571817586301-1484556682&rd=1
 1028,Wix,Wix,https://ja.wix.com/
-1029,Located,Located,
+1029,Located,Located,""
 1030,L2.IO,L2.IO,https://l2.io/
 1031,WOVN.io,WOVN.io,https://wovn.io/
 1032,mouseflow,mouseflow,https://mouseflow.com/
 1033,Semasio,Semasio,https://www.semasio.com/
 1034,Logicad,Logicad,https://logicad.com/
 1035,CreateJS CDN,CreateJS CDN,https://code.createjs.com/
-1036,Favor1,Favor1,
-1037,D2C Performance Ads,D2C Performance Ads,
-1038,adcloud,adcloud,
+1036,Favor1,Favor1,""
+1037,D2C Performance Ads,D2C Performance Ads,""
+1038,adcloud,adcloud,""
 1039,LivePerson,LivePerson,https://www.liveperson.com/
 1040,Mobsmart,Mobsmart,https://kpis.jp/product_mobsmart
 1041,ADmeme,ADmeme,https://kpis.jp/product_admeme
-1042,YesPath,YesPath,
+1042,YesPath,YesPath,""
 1043,formrun,formrun,https://form.run/home
 1044,KANADE DSP,KANADE DSP,https://zeta.inc/
 1045,borderfree,borderfree,https://www.borderfree.com/
@@ -426,19 +427,19 @@ service_id,name,name_ja,url
 1048,Capy,Capy,https://www.capy.me/
 1049,Audience Onboard,データオンボーディングサービス,https://www.acxiom.com/
 1050,Google Translate,Google 翻訳,https://translate.google.com/
-1051,Google Calendar,Google カレンダー,
+1051,Google Calendar,Google カレンダー,""
 1053,Synergy!LEAD,Synergy!LEAD,https://www.synergy-marketing.co.jp/cloud/synergylead/
-1054,Gamma,Gamma,
+1054,Gamma,Gamma,""
 1055,LiveRamp,LiveRamp,https://liveramp.com/
 1056,The Mobify Platforms,The Mobify Platforms,https://www.salesforce.com/commerce/headless/?bc=OSC
 1057,Oracle Eloqua Marketing Automation,Oracle Eloqua Marketing Automation,https://www.oracle.com/cx/marketing/automation/
-1058,Influence&Co,Influence&Co,
+1058,Influence&Co,Influence&Co,""
 1059,SharedCount,SharedCount,https://www.sharedcount.com/
 1060,HappyFox Chat,HappyFox Chat,https://www.happyfox.com/live-chat/
 1061,Lytics,Lytics,https://www.lytics.com/
 1062,Lucky Orange,Lucky Orange,https://www.luckyorange.com/
-1063,hoverowl,hoverowl,
-1064,Live800 Plus,Live800 Plus,
+1063,hoverowl,hoverowl,""
+1064,Live800 Plus,Live800 Plus,""
 1065,reCAPTCHA,reCAPTCHA,https://cloud.google.com/security/products/recaptcha
 1066,Zucks,Zucks,https://zucks.co.jp/
 1067,Hupso Website Analyzer,Hupso Website Analyzer,https://www.hupso.com/
@@ -451,14 +452,14 @@ service_id,name,name_ja,url
 1074,SHOOTI KeyWord Match,SHOOTI キーワードマッチ,https://www.blogwatcher.co.jp/
 1075,SHANON MARKETING PLATFORM,SHANON MARKETING PLATFORM,https://www.shanon.co.jp/
 1076,Life360 Ads Featuring Nativo,Life360 Ads Featuring Nativo,https://ads.life360.com/
-1078,Web Kaizen Sakura-san,WEB改善さくらさん,https://sakura.tifana.ai/furumai
+1078,Web Kaizen Sakura-san,WEB改善さくらさん,https://www.tifana.ai/products/furumai
 1079,StreetSmart,StreetSmart,https://lifestreet.com/
 1081,fonts.com,fonts.com,https://www.fonts.com/
-1082,mabot,mabot,
+1082,mabot,mabot,""
 1084,Leadpages,Leadpages,https://leadpages.com/
 1085,ferret One,ferret One,https://ferret-one.com/
 1086,AI Worker VoiceAgent,AI Worker VoiceAgent,https://www.aiworker.jp/voiceagent
-1087,Yasasii Browser Cloud Version,やさしいブラウザ・クラウド版,
+1087,Yasasii Browser Cloud Version,やさしいブラウザ・クラウド版,""
 1088,SiteLock,SiteLock,https://www.sitelock.com/
 1089,A.J.A. Recommend Engine,A.J.A. Recommend Engine,https://aja-kk.co.jp/
 1090,sui-sei,sui-sei,https://sui-sei.jp/
@@ -468,12 +469,12 @@ service_id,name,name_ja,url
 1094,TradeSafe,TradeSafe,https://www.tradesafe.co.jp/
 1095,ULIZA,ULIZA,https://www.uliza.jp/
 1096,AngularJS,AngularJS,https://angularjs.org/
-1097,Force Operation X,Force Operation X,
-1098,arata,arata,
+1097,Force Operation X,Force Operation X,""
+1098,arata,arata,""
 1099,TrackWind,トラックウィンド,https://www.trackwind.com/
 1100,with2,with2,https://blog.with2.net/
 1101,JWord,JWord,https://www.jword.jp/
-1104,STORE's R eight,ストアーズ・アールエイト,
+1104,STORE's R eight,ストアーズ・アールエイト,""
 1105,Logreco,ログレコ,https://www.logreco.jp/
 1106,AppDynamics,AppDynamics,https://www.splunk.com/en_us/appdynamics-joins-splunk.html
 1107,Demandbase,Demandbase,https://www.demandbase.com/
@@ -486,13 +487,13 @@ service_id,name,name_ja,url
 1114,MyFonts,MyFonts,https://www.myfonts.com/
 1115,Better Business Bureaus,Better Business Bureaus,https://www.bbb.org/
 1116,i-news,i-news,https://scala-com.jp/i-news/
-1117,ZUNOH,ZUNOH,
+1117,ZUNOH,ZUNOH,""
 1118,EC RECOMMENDER,ECレコメンダー,https://exp-data.com/recommend
-1119,IBM Digital Analytics,IBM Digital Analytics,
+1119,IBM Digital Analytics,IBM Digital Analytics,""
 1120,LiveChat,LiveChat,https://www.livechat.com/
 1121,Gunosy Ads,Gunosy Ads,https://gunosy.co.jp/ad/
 1122,Evernote,Evernote,https://evernote.com/
-1123,GRC,GRC,
+1123,GRC,GRC,""
 1125,Media Weaver,Media Weaver,https://mediaweaver.jp/
 1126,flamingo,flamingo,https://www.i3design.jp/services/flamingo/
 1127,WorldShopping,WorldShopping,https://www.zig-zag.co.jp/
@@ -501,7 +502,7 @@ service_id,name,name_ja,url
 1131,afb,afb,https://www.afi-b.com/
 1132,COSMIC,COSMIC,https://cosmic4.com/
 1133,Gyro-n,Gyro-n,https://www.gyro-n.com/
-1134,Adinte,アドインテ,https://adinte.co.jp/business/
+1134,Adinte,アドインテ,https://adinte.co.jp/products/
 1135,Gree Ads,Gree Ads,https://ads.gree.net/ja/
 1136,Vasta,Vasta,https://value-creation.jp/
 1138,JUSTUNO,JUSTUNO,https://www.justuno.com/
@@ -513,31 +514,31 @@ service_id,name,name_ja,url
 1144,TDB Web Server Certification,TDBサーバ証明書発行サービス,https://www.tdb.co.jp/services/lineup/srv_service/
 1145,Upland,Upland,https://uplandsoftware.com/
 1146,AdMedia,AdMedia,https://admedia.com/
-1147,MadKudu,MadKudu,https://www.madkudu.com/
-1149,Telaria,Telaria,
+1147,MadKudu,MadKudu,""
+1149,Telaria,Telaria,""
 1150,Fanplayr,Fanplayr,https://www.fanplayr.com/
 1151,GENIEE MA,GENIEE MA,https://ma-jin.jp/
 1152,Jimdo,Jimdo,https://www.jimdo.com/de/
 1153,GRED Web tampering check Cloud,GRED Web改ざんチェック Cloud,https://www.securebrain.co.jp/products/gred/function.html
 1154,Form Assist,Form Assist,https://efo.showcase-tv.com/formassist
 1155,Nielsen Video Analytics,Nielsen Video Analytics,https://www.nielsenonlinesupport.com/clientsupport/pages/products/va/va.html
-1156,JW Player,JW Player,https://jwplayer.com/
+1156,JWX,JWX,https://jwx.com/
 1157,BlueShift,BlueShift,https://blueshift.com/
 1158,Branch,Branch,https://www.branch.io/
-1159,Selectable Media,Selectable Media,
-1160,karma,karma,
-1161,Vergic,Vergic,
+1159,Selectable Media,Selectable Media,""
+1160,karma,karma,""
+1161,Vergic,Vergic,""
 1162,iAdvize,iAdvize,https://www.iadvize.com/en/
 1163,CONTENTSQUARE,CONTENTSQUARE,https://contentsquare.com/
 1164,Amobee,Amobee,https://www.amobee.com/
 1165,PriceSpider,PriceSpider,https://www.pricespider.com/?source=himalayas.app
 1166,Ghostery,Ghostery,https://www.ghostery.com/
-1167,unis,unis,
+1167,unis,unis,""
 1168,Tiki,Tiki,https://www.tiki.com/
 1169,Taxel,Taxel,https://taxel.media/
-1170,OMOTENASHI DSP,おもてなしDSP,
+1170,OMOTENASHI DSP,おもてなしDSP,""
 1171,WakuWaku Shop,わくわく店舗,https://tempo.ltv-lab.jp/
-1173,Akamai FreeFlow,Akamai FreeFlow,
+1173,Akamai FreeFlow,Akamai FreeFlow,""
 1174,Salesforce Commerce Cloud,Salesforce Commerce Cloud,https://www.salesforce.com/commerce/?bc=OSC
 1175,Bronto,Bronto,https://www.netsuite.com/portal/home.shtml
 1176,Valid,Valid,https://valid.com/
@@ -545,18 +546,18 @@ service_id,name,name_ja,url
 1178,Onclusive Media Monitoring,Onclusive Media Monitoring,https://onclusive.com/en-gb/
 1180,Epsilon,Epsilon,https://www.epsilon.com/apac
 1182,Peraichi,ペライチ,https://peraichi.com/
-1183,Material Design Lite,Material Design Lite,
+1183,Material Design Lite,Material Design Lite,""
 1184,SHOP-Maker,SHOP-Maker,https://www.shopmaker.jp/
 1185,Usergram,Usergram,https://www.bebit.co.jp/services/ux-ops/usergram/
 1186,Mautic,Mautic,https://mautic.org/
 1187,Stripe,Stripe,https://stripe.com/jp
 1188,TrustYou,TrustYou,https://www.trustyou.com/
-1189,Local Measure,Local Measure,
+1189,Local Measure,Local Measure,""
 1190,Piwik.pro,Piwik.pro,https://piwik.pro/homepage-a/
 1191,Bazaarvoice,Bazaarvoice,https://www.bazaarvoice.com/
 1192,Wantedly Open API,Wantedly Open API,https://sg.wantedly.com/developers
 1193,Font Awesome,Font Awesome,https://fontawesome.com/
-1194,Fruity Form,フルーティーフォーム,
+1194,Fruity Form,フルーティーフォーム,""
 1195,BowNow,BowNow,https://bow-now.jp/
 1196,Dynatrace,Dynatrace,https://www.dynatrace.com/
 1197,digima,digima,https://digima.com/
@@ -566,15 +567,15 @@ service_id,name,name_ja,url
 1201,LeadLander,LeadLander,https://leadlander.com/
 1202,6Sense,6sense,https://6sense.com/
 1203,sinclo,sinclo,https://chat.sinclo.jp/
-1204,Captora,Captora,
-1205,Adobe Marketo Measure,Adobe Marketo Measure,https://business.adobe.com/products/marketo/bizible.html
+1204,Captora,Captora,""
+1205,Adobe Marketo Measure,Adobe Marketo Measure,https://business.adobe.com/products/marketo/marketo-measure.html
 1206,Invoca,Invoca,https://www.invoca.com/
 1207,LODEO,LODEO,https://www.lodeo.io/
-1208,OSDN,OSDN,
+1208,OSDN,OSDN,""
 1209,Impreva Advanced Bot Protection,Impreva Advanced Bot Protection,https://www.imperva.com/products/advanced-bot-protection-management/
 1211,Promise Mail,Promise Mail,https://promise-mail.com/
 1212,Placehold.jp,Placehold.jp,https://placehold.jp/
-1213,HAROiD,HAROiD,
+1213,HAROiD,HAROiD,""
 1214,Ooyala,Ooyala,https://www.dalet.com/
 1215,SURFPOINT,SURFPOINT,https://www.surfpoint.jp/
 1216,WEB-Transer,WEB-Transer,https://www.crosslanguage.co.jp/
@@ -582,31 +583,31 @@ service_id,name,name_ja,url
 1218,teamLab search,teamLab search,https://www.team-lab.com/search/?q=%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2583%25A9%25E3%2583%259C%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2581
 1219,rakulog,らくらくログ解析,https://www.rakulog.com/
 1220,millvi,ミルビィ,https://millvi.jp/
-1221,CAM FORCE,CAM FORCE,
+1221,CAM FORCE,CAM FORCE,""
 1222,DuraSite-Tracker,DuraSite-Tracker,https://www.accelia.net/
 1225,IBM Cloud Video,IBMクラウドビデオ,https://video.ibm.com/
 1226,Videog,ビデオグ,https://videog.jp/
 1227,Mux,Mux,https://www.mux.com/
 1228,Benchmark Email,Benchmark Email,https://www.benchmarkemail.com/
-1229,HONcode,HONcode,
-1230,eurie Desk,eurie Desk,
+1229,HONcode,HONcode,""
+1230,eurie Desk,eurie Desk,""
 1231,Creative Commons License,Creative Commons License,https://licensebuttons.net/
 1232,GMO MAKESHOP,GMO MAKESHOP,https://www.makeshop.jp/
 1233,EFO CUBE,EFO CUBE,https://www.efo-cube.info/
-1234,Yahoo Video Ads,Yahoo Video Ads,
+1234,Yahoo Video Ads,Yahoo Video Ads,""
 1235,CA Tag Solution,CA Tag Solution,http://web.tg-m.jp/
-1236,Google Botguard,Google Botguard,
+1236,Google Botguard,Google Botguard,""
 1237,Adobe Advertising,Adobe Advertising,https://business.adobe.com/products/advertising.html
 1238,smaato,smaato,https://www.smaato.com/?r=imc-bmap
-1239,Easy Entry,Easy Entry,
-1240,NTT Resonant Ad,NTTレゾナント広告,
+1239,Easy Entry,Easy Entry,""
+1240,NTT Resonant Ad,NTTレゾナント広告,""
 1241,DataXu,DataXu,https://advertising.roku.com/
-1242,sitescout,sitescout,
+1242,sitescout,sitescout,""
 1243,CloudSecure,クラウドセキュア,https://cloudsecure.co.jp/
 1244,Zoho CRM,Zoho CRM,https://www.zoho.com/
 1245,PubNub,PubNub,https://www.pubnub.com/
 1246,ShowTalk,ShowTalk,https://showtalk.co.jp/
-1247,WPP Media,WPP Media,https://www.groupm.com/
+1247,WPP Media,WPP Media,https://www.wppmedia.com/
 1248,Viant,Viant,https://www.viantinc.com/
 1249,Ameba,Ameba,https://ameba-ad-pr.amebaownd.com/
 1250,LinkedIn Ads,LinkedIn Ads,https://business.linkedin.com/advertise/ads
@@ -618,39 +619,39 @@ service_id,name,name_ja,url
 1256,Hatena Bookmark count API,はてなブックマーク件数取得API,https://developer.hatena.ne.jp/ja/documents/bookmark/apis/getcount/
 1257,VoicePocket,VoicePocket,https://voicepocket.net/
 1259,Keen,Keen,https://keen.io/
-1260,AdGear,AdGear,https://samsungads.ca/en/
+1260,AdGear,AdGear,""
 1261,Innovid,Innovid,https://www.innovid.com/
-1262,X-lift,クロスリフト,
+1262,X-lift,クロスリフト,""
 1263,Bypass,Bypass,https://bypass.jp/ja/
 1264,qualva,qualva,https://qualva.com/
 1266,AC Affiliate,ACアフィリエイト,https://www.ac-associate.com/affiliates/
-1267,Impression Desk,Impression Desk,
+1267,Impression Desk,Impression Desk,""
 1268,RunDSP,RunDSP,http://www.runads.com/
 1269,Sumo,Sumo,https://bdow.com/
-1271,bpush,bpush,
+1271,bpush,bpush,""
 1272,FC2 Analyzer,FC2 アクセス解析,https://analyzer.fc2.com/
-1273,AdPicker,AdPicker,
-1274,PolymorphicAds,ポリモフィックアドス,https://www.craid-inc.com/lp/polymorphicads/
+1273,AdPicker,AdPicker,""
+1274,PolymorphicAds,ポリモフィックアドス,""
 1275,NewsTV,NewsTV,https://news-tv.jp/
-1276,count.jsoon,count.jsoon,
-1277,widgetoon.js,widgetoon.js,
+1276,count.jsoon,count.jsoon,""
+1277,widgetoon.js,widgetoon.js,""
 1278,Digilant,Digilant,https://digilant.com/
 1279,OWNLY,OWNLY,https://www.ownly.jp/
 1280,WizLabo,WizLabo,https://www.wizlabo.jp/
 1282,NAVITIME Store Guide ASP,NAVITIME 店舗案内ASP,https://location-cloud.navitime.co.jp/media?frm=oldsite
 1283,IR POCKET,IRポケット,https://irpocket.com/
-1284,MobileMK,MobileMK,
+1284,MobileMK,MobileMK,""
 1285,do-blog,ドゥブログ,https://www.do-blog.jp/
 1286,LinkBox,LinkBox,https://t2.jiji.com/linkbox?userID=pr
 1287,Yahoo Auction Viewer,ヤフオクビューワー,http://kks-box.net/
-1288,Yahoo! Custom Search,Yahoo!検索 カスタムサーチ,
-1289,Undertone,Undertone,https://www.undertone.com/
+1288,Yahoo! Custom Search,Yahoo!検索 カスタムサーチ,""
+1289,Perion,Perion,https://perion.com/
 1290,Synapse,シナプス,https://47ps.it-comm.co.jp/
 1291,LocalFolio,ローカルフォリオ,https://lp.leadplus.co.jp/ads/service/service-localfolio
 1292,Feednami,Feednami,https://toolkit.sekando.com/docs/en/feednami
 1294,DaVinci Commerce,DaVinci Commerce,https://davincicommerce.ai/
 1295,SundaySky,SundaySky,https://sundaysky.com/
-1296,AT Internet,AT Internet,
+1296,AT Internet,AT Internet,""
 1297,Accela BizSearch ASP,Accela BizSearch ASP サイト内検索,https://www.accelatech.com/product/bs-asp
 1298,X-log,X-log,https://x-log.ai/
 1299,Shop Serve,ショップサーブ,https://shopserve.estore.jp/
@@ -658,20 +659,20 @@ service_id,name,name_ja,url
 1301,appYuser,appYuser,https://www.quadran.eu/en/appyuser-insight/
 1302,Zoho SalesIQ,Zoho SalesIQ,https://www.zoho.com/salesiq/
 1303,List Finder(Cluez Marketing Plan),リストファインダー(クルーズマーケティングプラン),https://www.aperza.com/catalog/
-1304,SITE STRATOS,サイトストラトス,
+1304,SITE STRATOS,サイトストラトス,""
 1305,Lead Analyzer,Lead Analyzer,http://www.leadanalyzer.jp/
 1306,Adobe Get Flash Player,Adobe Get Flash Player,https://www.adobe.com/products/flashplayer/end-of-life-alternative.html
-1307,mediaplex SSP,mediaplex SSP,
+1307,mediaplex SSP,mediaplex SSP,""
 1308,Amazon Kinesis Data Streams,Amazon Kinesis Data Streams,https://aws.amazon.com/kinesis/data-streams/
 1309,Kantan Access Analyzer,かんたんアクセス解析,https://kantan-access.com/
 1310,SmartVision IR,SmartVision IR,https://ivision.ne.jp/ir/
 1311,ShareWith,シェアウィズ,https://www.share-with.info/jp/index.html
 1312,Fudosan rengotai,不動産連合隊,https://www.rals.net/
 1313,JANet,ジャネット,https://j-a-net.jp/
-1314,A1WebStats,A1WebStats,
+1314,A1WebStats,A1WebStats,""
 1315,ForeSee,ForeSee,https://www.verint.com/voice-of-the-customer/predictive-modeling/
 1316,SELEsite,セレサイト,https://v4.selesite.com/
-1317,canata SG,canata SG,
+1317,canata SG,canata SG,""
 1318,Usabilla,Usabilla,https://www.surveymonkey.com/roles/cx/
 1319,HP Meister,ホームページマイスター,https://www.hpmeister.jp/
 1321,Infinite Scroll,Infinite Scroll,https://infinite-scroll.com/
@@ -679,13 +680,13 @@ service_id,name,name_ja,url
 1323,DBFocus,DBFocus,https://www.symphony-marketing.co.jp/marketing/dc/
 1324,Mapion,マピオン,https://www.mapion.co.jp/
 1325,Salesforce marketing cloud Email Studio,Salesforce marketing cloud Email Studio,https://www.salesforce.com/marketing/engagement/?bc=OSC
-1326,WebSysAccessCounter,ウェブシスアクセスカウンター,
-1327,GETTER,GETTER,
+1326,WebSysAccessCounter,ウェブシスアクセスカウンター,""
+1327,GETTER,GETTER,""
 1328,E-PAGERANK,E-ページランク,http://e-pagerank.net/
 1329,EMIDAS,エミダス,https://service.nc-net.com/pr/service/
 1330,goo Search Solution,goo Search Solution,https://searchsolution.goo.ne.jp/
 1331,Live Agent,Live Agent,https://www.liveagent.com/
-1332,Adobe Business Catalyst,Adobe Business Catalyst,
+1332,Adobe Business Catalyst,Adobe Business Catalyst,""
 1333,Strikingly,Strikingly,https://www.strikingly.com/
 1334,Web sanbo,Web参謀,http://sanbo.web-strategy.jp/
 1335,Beeswax,Beeswax,https://www.beeswax.com/
@@ -697,30 +698,30 @@ service_id,name,name_ja,url
 1342,OAuth validator,OAuth validator,https://github.com/jublo/oauth-validator-php
 1343,wellmo,ウェルモ,https://wellmo.io/
 1344,Tsukaeru HomePage,使えるホームページ,https://asakurasoft.co.jp/hp.html
-1345,LinkedIn CDN,LinkedIn CDN,
-1346,SWC,SWC,
+1345,LinkedIn CDN,LinkedIn CDN,""
+1346,SWC,SWC,""
 1347,IR STREET,IR STREET,https://www.irstreet.com/jp/member.php?content=member_guide_corporation
-1348,recipe calendar,レシピカレンダー,
-1349,PowerLinks,PowerLinks,
+1348,recipe calendar,レシピカレンダー,""
+1349,PowerLinks,PowerLinks,""
 1350,COW TELEVISION,COW TELEVISION,https://www.cowtv.jp/
 1351,REAL TYPE,REAL TYPE,https://www.realtype.jp/
 1352,Linkedin Insight Tag,Linkedin Insight タグ,https://www.linkedin.com/help/lms/answer/a427660/the-linkedin-insight-tag-frequently-asked-questions?lang=en-us&intendedLocale=en
 1353,BB-ANALYTICS,BB-ANALYTICS,http://bb-analytics.jp/
-1354,CALLSCOPE,CALLSCOPE,
+1354,CALLSCOPE,CALLSCOPE,""
 1355,Oracle Customer Experience,Oracle Customer Experience,https://www.oracle.com/cx/
 1356,Oracle Service,Oracle Service,https://www.oracle.com/cx/service/
-1357,SiteCensus,SiteCensus,
+1357,SiteCensus,SiteCensus,""
 1358,Lead Forensics,Lead Forensics,https://www.leadforensics.com/
 1359,free-counter,無料アクセスカウンター,https://www.stylemap.co.jp/
 1360,Smartphone Converter,Smartphone Converter,https://www.showcase-tv.com/service/
 1361,dreamaASP,ドリーマASP,https://www.dreama.jp/
 1362,Tripadvisor Widgets,トリップアドバイザー ウィジェット,https://www.tripadvisor.com/Widgets
 1363,Rollbar,Rollbar,https://rollbar.com/
-1364,e-target,e-target,
+1364,e-target,e-target,""
 1365,Gator.IO Platform,Gator.IO Platform,https://gator.io/
 1366,Siteimprove Analytics,Siteimprove Analytics,https://www.siteimprove.com/platform/analytics/
 1367,squarespace,squarespace,https://www.squarespace.com/templates
-1368,GTA,GTA,
+1368,GTA,GTA,""
 1369,DYNA IBE,DYNA IBE,https://www.dyn.co.jp/service/ibe/
 1370,SipsTool,SipsTool,https://www.sipstool.jp/
 1371,kaipara banner,買いパラ バナー,http://www.kaipara.net/
@@ -734,46 +735,46 @@ service_id,name,name_ja,url
 1379,chirashiplus,チラシプラス,https://chirashiplus.jp/
 1380,Pokecan,ポケカン,https://pokecan2.net/
 1381,SMART CONTEST,スマートコンテスト,https://contest.smartpr.jp/
-1382,smarticA!DMP,smarticA!DMP,
+1382,smarticA!DMP,smarticA!DMP,""
 1383,Supership Search Solution,Supership Search Solution,https://s4p.jp/
 1384,social plus,ソーシャルPLUS,https://www.socialplus.jp/
-1385,CCMP,CCMP,https://www.cheetahdigital.com/solutions/cheetah-messaging/
+1385,CCMP,CCMP,""
 1386,Marchex Call Tracking,Call Tracking Analytics,https://www.marchex.com/
 1387,C1X,C1X,https://c1exchange.com/
 1388,ANALYSE SEO,ANALYSE SEO,https://www.willgate.co.jp/promonista/servicelist/seoconsulting/
 1389,ZETA SEARCH,ZETA SEARCH,https://zeta.inc/cx/products/zs
-1390,Commanders Act,Commanders Act,https://www.commandersact.com/en/
+1390,Commanders Act,Commanders Act,https://www.commandersact.com/
 1391,Basilic.io,Basilic.io,http://basilic.io/
-1392,Early Birds,Early Birds,
-1393,RhythmOne,RhythmOne,
-1394,Imonomy,Imonomy,
+1392,Early Birds,Early Birds,""
+1393,RhythmOne,RhythmOne,""
+1394,Imonomy,Imonomy,""
 1395,IR CMS,IR CMS,https://ircms.jp/service/ir_cms.html
 1396,PUSH ONE,PUSH ONE,https://webpush.jp/
-1397,CANDY,CANDY,
+1397,CANDY,CANDY,""
 1398,Speaker Deck,Speaker Deck,https://speakerdeck.com/
-1399,Click Analysis,Click Analysis,
+1399,Click Analysis,Click Analysis,""
 1400,DoubleVerify,DoubleVerify,https://doubleverify.com/
 1401,Intent IQ,Intent IQ,https://www.intentiq.com/
-1403,medi8,medi8,
+1403,medi8,medi8,""
 1404,SITE FARM,SITE FARM,https://sitefarm.jp/
 1405,Daigaku Juken Pass Navi,大学受験パスナビ,https://passnavi.obunsha.co.jp/
-1406,Yahoo! Static Map API,Yahoo!スタティックマップAPI,
-1407,Yahoo! JavaScript Map API,Yahoo! JavaScriptマップAPI,
+1406,Yahoo! Static Map API,Yahoo!スタティックマップAPI,""
+1407,Yahoo! JavaScript Map API,Yahoo! JavaScriptマップAPI,""
 1408,infoCMS,infoCMS,https://www.infocms.jp/
 1409,Kargo,Kargo,https://www.kargo.com/
 1410,GMO MakeRepeter,GMO MakeRepeter,https://www.makerepeater.jp/
 1411,AudienceOne,AudienceOne,https://www.hakuhodody-one.co.jp/service/marketing/media-solution/audienceone/
 1412,Pointillist,Pointillist,https://www.genesys.com/capabilities/customer-journey-management
-1413,EffectiveOne,EffectiveOne,
-1414,Bunchbox,Bunchbox,
+1413,EffectiveOne,EffectiveOne,""
+1414,Bunchbox,Bunchbox,""
 1415,TVSquared,TVSquared,https://www.innovid.com/platform
-1416,edita,クチコミedita,
-1418,DataMentors,DataMentors,
+1416,edita,クチコミedita,""
+1418,DataMentors,DataMentors,""
 1419,Alchemer,Alchemer,https://www.alchemer.com/
 1420,Syndigo,Syndigo,https://syndigo.com/
 1421,55 labs,55 labs,https://fr.fifty-five.com/
-1422,OpinionBar,OpinionBar,
-1425,NebulaCX,NebulaCX,
+1422,OpinionBar,OpinionBar,""
+1425,NebulaCX,NebulaCX,""
 1426,AB Tasty,AB Tasty,https://www.abtasty.com/
 1427,Yield Optimisers,Yield Optimisers,https://yieldoptimisers.com/
 1429,Inbenta,Inbenta,https://www.inbenta.com/
@@ -790,81 +791,81 @@ service_id,name,name_ja,url
 1440,Yotpo,Yotpo,https://www.yotpo.com/
 1441,Narrative,Narrative,https://www.narrative.io/
 1442,Bound,Bound,https://www.bound360.com/
-1443,Adbrain,Adbrain,
+1443,Adbrain,Adbrain,""
 1444,Inforgram,Inforgram,https://infogram.com/
 1445,Submit Mail,さぶみっと！メール配信,https://www.submit.ne.jp/mail
 1446,CartRecovery,カートリカバリー,https://www.submit.ne.jp/cartrecovery
-1447,BuySmartJapan,BuySmartJapan,
-1448,MikanTracking,MikanTracking,
+1447,BuySmartJapan,BuySmartJapan,""
+1448,MikanTracking,MikanTracking,""
 1449,KaiU,回遊,https://kaiu.jp/
-1450,LifeStyle,LifeStyle,
-1451,KUDAN,KUDAN,
+1450,LifeStyle,LifeStyle,""
+1451,KUDAN,KUDAN,""
 1452,Moshimo Drop Shipping,もしもドロップシッピング,https://www.moshimo.co.jp/service/dropshipping
 1453,RESULT PLUS,RESULT PLUS,https://resultplus.jp/
-1454,RESULT MASTER,RESULT MASTER,
-1455,CoreForthOne,コアフォースワン,
-1456,Adobe Edge Web Fonts,Adobe Edge Web Fonts,
+1454,RESULT MASTER,RESULT MASTER,""
+1455,CoreForthOne,コアフォースワン,""
+1456,Adobe Edge Web Fonts,Adobe Edge Web Fonts,""
 1457,eltex,eltex,https://www.eltex.co.jp/
 1458,JotForm,JotForm,https://www.jotform.com/
 1459,Estore Compare,Ｅストアーコンペア,https://estore.jp/
-1460,Adobe Dynamic Media,Adobe Dynamic Media,https://business.adobe.com/jp/products/experience-manager/assets/dynamic-media.html
-1461,SENSY bot,SENSY bot,
+1460,Adobe Dynamic Media,Adobe Dynamic Media,""
+1461,SENSY bot,SENSY bot,""
 1463,famad,famad,https://admin.fam-ad.com/report/
-1464,TAP ONE,TAP ONE,
-1465,WISE CART,ワイズカート,
+1464,TAP ONE,TAP ONE,""
+1465,WISE CART,ワイズカート,""
 1466,click analyzer,クリックアナライザー,http://clickanalyzer.jp/
 1467,Net Protections Logo,ネットプロテクションズ　ロゴ,https://www.netprotections.com/
 1468,SoundCloud widget,SoundCloud widget,https://developers.soundcloud.com/
 1469,Access Trade,アクセストレード,https://www.accesstrade.ne.jp/
 1470,Google Customer Review,Googleカスタマーレビュー,https://support.google.com/merchants/topic/14628801?visit_id=638779413256424142-2698483849&rd=1
 1471,AWIN,AWIN,https://www.awin.com/gb/
-1472,Proactive AI,Proactive AI,
+1472,Proactive AI,Proactive AI,""
 1473,AlphaSSL,アルファSSL,https://www.toritonssl.com/
 1474,Customer Rings,カスタマーリングス,https://www.customer-rings.com/
 1475,Rakuten Pay,楽天ペイ,https://checkout.rakuten.co.jp/biz/
-1476,CombzReco,コンビーズレコ,
+1476,CombzReco,コンビーズレコ,""
 1477,[3s],[3s],http://3s-tools.com/
-1478,Interactive Tracker,インタラクティブトラッカー,
+1478,Interactive Tracker,インタラクティブトラッカー,""
 1479,All Internet Analytics,All Internet アナリティクス,https://www.all-internet.jp/
 1480,Piwik(Web Marketing Research Institute),Piwik(WEBマーケテイング総合研究所),http://stats.wms-analytics.net/
 1481,Blog de Homepage,ブログdeホームページ,https://www.webmarketing.co.jp/business/blogdehp/
 1482,GetSiteControl,GetSiteControl,https://getsitecontrol.com/
-1483,Yahoo!Geocities,Yahoo!ジオシティーズ,
+1483,Yahoo!Geocities,Yahoo!ジオシティーズ,""
 1484,EXPOLINE,EXPOLINE,https://www.expoline.jp/
 1485,SPIRAL,スパイラル,https://www.spiral-platform.co.jp/service/spiralv1/
 1486,lift,lift,https://www.lift.win/
 1487,Getintent,Getintent,https://getintent.com/
 1488,Chat Plus,チャットプラス,https://chatplus.jp/
-1489,AdRizer,AdRizer,
+1489,AdRizer,AdRizer,""
 1490,DeepIntent,DeepIntent,https://deepintent.com/
 1491,EasyWebCreator,イジクリ,https://www.ecgo.jp/
 1493,Facebook Badge,Facebook バナー,https://developers.facebook.com/docs/plugins/
-1494,visitortrack,visitortrack,
+1494,visitortrack,visitortrack,""
 1495,Google Charts,Google Charts,https://developers.google.com/chart/
 1496,Google Play badge,Google Play badge,https://partnermarketinghub.withgoogle.com/brands/google-play/visual-identity/badge-guidelines/
 1497,MultiView,MultiView,https://www.multiview.com/
 1498,Access-Counter-Net,アクセスカウンターネット,http://www.access-counter.net/
 1499,Saber,Saber,https://saberfeedback.com/
-1500,Parrable,Parrable,
-1501,Komoona,Komoona,
-1504,bRealTime,bRealTime,
+1500,Parrable,Parrable,""
+1501,Komoona,Komoona,""
+1504,bRealTime,bRealTime,""
 1505,FreesaleAccessAnalytics,フリーセルアクセス解析ソフト,https://www.freesale.co.jp/inquiry/fsa_download/
 1506,Feedbackify,Feedbackify,https://www.feedbackify.com/
 1507,Ninja Home Page,忍者ホームページ,https://www.ninja.co.jp/hp/
-1508,RatingWidget,RatingWidget,
+1508,RatingWidget,RatingWidget,""
 1509,Acoustic Campaign,Acoustic Campaign,https://www.acoustic.com/
 1510,Ionic,Ionic,https://ionicframework.com/
 1511,Yieldmo,Yieldmo,https://yieldmo.com/
 1512,Cardlytics,Cardlytics,https://www.cardlytics.com/
 1513,Navegg,Navegg,https://www.navegg.com/br
 1515,CPI SSL Certification,CPI SSL Certification,https://cpissl.cpi.ad.jp/cpissl/
-1516,Flixster,Flixster,
+1516,Flixster,Flixster,""
 1517,OnAudience,OnAudience,https://onaudience.com/
 1518,TrackJS,TrackJS,https://trackjs.com/
 1520,INTEGRAL,INTEGRAL,https://www.ever-rise.co.jp/
 1521,YIELD ONE,YIELD ONE,https://yieldone.com/service/
 1522,AcuityAds,AcuityAds,https://illumin.com/
-1523,hyDMP,hyDMP,
+1523,hyDMP,hyDMP,""
 1524,Miaozhen DMP,Miaozhen DMP,https://www.miaozhen.com/
 1525,Headerlift,Headerlift,https://www.headerlift.com/
 1526,Digi Trust,Digi Trust,https://www.digitru.st/
@@ -877,19 +878,19 @@ service_id,name,name_ja,url
 1533,UNICORN,UNICORN,https://unicorn.inc/
 1534,Hike,Hike,https://mtburn.jp/
 1535,SaleCycle,SaleCycle,https://www.salecycle.com/
-1536,Sprout! SSP,Sprout! SSP,
+1536,Sprout! SSP,Sprout! SSP,""
 1537,Instinctive,Instinctive,https://instinctive.io/
 1538,AMP,AMP,https://amp.dev/
 1539,Blogger,Blogger,https://www.blogger.com/about/?bpli=1
 1540,3dcart,3dcart,https://www.shift4shop.com/
 1541,Needle,Needle,https://www.thirdchannel.com/
-1542,Salesforce Marketing Cloud,Salesforce Marketing Cloud,https://www.salesforce.com/marketing/personalization/?bc=OSC
+1542,Agentforce Marketing,Agentforce Marketing,https://www.salesforce.com/marketing/
 1543,SnapEngage,SnapEngage,https://snapengage.com/
 1544,Feathr,Feathr,https://www.feathr.co/
 1545,optinmonster,optinmonster,https://optinmonster.com/
 1546,mailup,mailup,https://mailup.it/
 1548,comparecards,comparecards,https://www.comparecards.com/
-1549,Sublime Skinz,Sublime Skinz,
+1549,Sublime Skinz,Sublime Skinz,""
 1550,CodePen,CodePen,https://codepen.io/
 1551,Zmags,Zmags,https://getfastr.com/
 1552,Reflektion,Reflektion,https://www.sitecore.com/products/search
@@ -898,21 +899,21 @@ service_id,name,name_ja,url
 1555,AdStage,AdStage,https://adstage.io/
 1556,MaxMind,MaxMind,https://www.maxmind.com/en/home
 1557,ClickFunnels,ClickFunnels,https://www.clickfunnels.com/
-1558,MarketOne,MarketOne,
+1558,MarketOne,MarketOne,""
 1559,COMEMO,COMEMO,https://comemo.nikkei.com/
 1561,VIDEOJS,VIDEOJS,https://videojs.org/
 1563,AWS SDK for JavaScript,AWS SDK for JavaScript,https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-browser.html
-1564,Matterkind,Matterkind,
+1564,Matterkind,Matterkind,""
 1565,GhostRec,GhostRec,http://www.ghostrec.jp/
 1566,BidTheatre,BidTheatre,https://www.bidtheatre.com/
 1567,Blis,Blis,https://blis.com/
-1568,Mynd Plus,Mynd Plus,
+1568,Mynd Plus,Mynd Plus,""
 1569,adhood,adhood,https://www.adhood.com/
-1570,ADITION technologies,ADITION technologies,
+1570,ADITION technologies,ADITION technologies,""
 1572,SpiceWorks,SpiceWorks,https://www.spiceworks.com/
 1573,Pendo,Pendo,https://www.pendo.io/
 1574,ProfitWell,Payment Tool Analytics,https://www.paddle.com/profitwell-metrics
-1575,Beeketing,Beeketing,
+1575,Beeketing,Beeketing,""
 1576,MLveda,MLveda,https://www.mlveda.com/
 1577,UseItBetter,UseItBetter,https://www.useitbetter.com/
 1578,OptiMonk,OptiMonk,https://www.optimonk.com/
@@ -924,14 +925,14 @@ service_id,name,name_ja,url
 1584,teamLabDMP,チームラボDMP,https://www.team-lab.com/teamlabdmp/
 1585,ChatWork Share Button,「チャットワークでシェア」ボタン,https://go.chatwork.com/ja/
 1586,BASE,BASE,https://thebase.com/
-1587,Zumby,Zumby,
-1588,TruGAZE,TruGAZE,
-1589,Tail,Tail,https://www.tail.digital/
+1587,Zumby,Zumby,""
+1588,TruGAZE,TruGAZE,""
+1589,Tail,Tail,""
 1590,Gemius,Gemius,https://gemius.com/
-1591,RESULT EC,RESULT EC,
+1591,RESULT EC,RESULT EC,""
 1592,Revolver,Revolver,https://revolver.jp/
-1593,BeMatch,BeMatch,
-1594,CrossOven,CrossOven,
+1593,BeMatch,BeMatch,""
+1594,CrossOven,CrossOven,""
 1595,PKSHA Security,PKSHA Security,https://www.pkshatech.com/ai-solution/product/pksha-security/
 1596,Robee,Robee,https://www.robee.tech/
 1597,82com,ハニカム,https://www.82comb.net/
@@ -941,27 +942,27 @@ service_id,name,name_ja,url
 1601,FutureWeb,FutureWeb,https://www.future.ad.jp/
 1602,UltraASP,UltraASP,https://ultra-asp.greenwich.co.jp/
 1603,FeedMeter,FeedMeter,http://feedmeter.net/
-1604,Genesis-EC,Genesis-EC,
+1604,Genesis-EC,Genesis-EC,""
 1605,SYNALIO,シナリオ,https://synal.io/
 1606,REBOT,REBOT,https://rebot.jp/
 1607,Do Planning,Do Planning,https://do-planning.jp/
 1608,Shareaholic,Shareaholic,https://www.shareaholic.com/
-1609,Power ROI,パワーROI,
+1609,Power ROI,パワーROI,""
 1610,GMO Point,GMOポイント,https://point.gmo.jp/
 1611,Fukugan Feed,複眼Feed,https://fukugan.com/
 1612,RecrutingOptimizer,リクオプ,https://recop.jp/
-1613,nakanohito,なかのひと,
+1613,nakanohito,なかのひと,""
 1614,FraudAlert,FraudAlert,https://caulis.jp/
 1615,Eyeview,Eyeview,https://www.eyeviewdigital.com/
-1616,SAKURA WEB FONT,さくらウェブフォント,
+1616,SAKURA WEB FONT,さくらウェブフォント,""
 1617,AdThrive,AdThrive,https://raptive.com/
 1618,Drip,Drip,https://www.drip.com/
 1619,OptinCollect,OptinCollect,https://www.optincollect.com/en#home
-1620,ToutApp,ToutApp,
+1620,ToutApp,ToutApp,""
 1621,Repl-AI,レプル・エーアイ,https://www.repl-ai.jp/
-1622,Typepad,Typepad,
+1622,Typepad,Typepad,""
 1623,CONVERTRO,CONVERTRO,https://www.convertro.com/
-1624,Yahoo! Analytics,Yahoo!アクセス解析,
+1624,Yahoo! Analytics,Yahoo!アクセス解析,""
 1625,tawk.to,tawk.to,https://www.tawk.to/
 1626,embed.ly,embed.ly,https://embed.ly/
 1627,CookieQ,CookieQ,https://cookieq.com/
@@ -970,17 +971,17 @@ service_id,name,name_ja,url
 1630,AI.BiS,アイビス,https://chamo-chat.com/
 1631,docodoco.jp tag tracking data option,どこどこJP タグトラッキングデータオプション,https://www.docodoco.jp/usage/ga/
 1632,ChatDealere,チャットディーラー,https://www.rakus.co.jp/
-1633,Access Insight,Access Insight,
+1633,Access Insight,Access Insight,""
 1634,Shore,Shore,http://shore.li/
 1635,Chocolate Mediation,Chocolate Mediation,https://chocolateplatform.com/
-1636,VOLVELLE,VOLVELLE,
+1636,VOLVELLE,VOLVELLE,""
 1637,admage,admage,https://admage.jp/
-1638,metcaf,メトカフ,
-1640,Coinhive,Coinhive,
+1638,metcaf,メトカフ,""
+1640,Coinhive,Coinhive,""
 1641,PG Multi Payment Service,PGマルチペイメントサービス,https://www.gmo-pg.com/service/mulpay/
 1642,Kessai Station,決済ステーション,https://www.smbc-card.com/business/collection/service/station/index.jsp
 1643,Smartling,Smartling,https://www.smartling.com/
-1644,Push7,Push7,
+1644,Push7,Push7,""
 1645,Criteo OneTag,Criteo OneTag,https://help.criteo.com/kb/en
 1646,Criteo OneTag for Publisher,Criteo OneTag for Publisher,https://help.criteo.com/kb/en
 1647,CHEQ,CHEQ,https://cheq.ai/
@@ -992,37 +993,37 @@ service_id,name,name_ja,url
 1653,ValueCommerce,バリューコマース,https://www.valuecommerce.ne.jp/
 1654,Affiliate110,成果報酬110番,https://af-110.com/media/kiyaku.php
 1655,AFRo,AFRo,https://www.a-fro.jp/
-1656,CA Reward,CA Reward,
+1656,CA Reward,CA Reward,""
 1657,Paygent,ペイジェント,https://www.paygent.co.jp/
 1658,Google Analytics(gtag),Google アナリティクス(gtag),https://analytics.google.com/analytics/web/
 1659,i2i,i2i,https://s.i2i.jp/
-1660,MAIST,MAIST,
+1660,MAIST,MAIST,""
 1661,OCTOPUS,OCTOPUS,https://octo-pus.net/
 1662,TrenDemon,TrenDemon,https://trendemon.com/
-1663,Piksel,Piksel,
+1663,Piksel,Piksel,""
 1664,User Heat,User Heat,https://userheat.com/
 1665,plimo,plimo,https://www.plimo.jp/
 1666,Smartphone Analytics,スマートフォン解析ツール,https://web-analytics.userlocal.jp/
 1669,Insider,Insider,https://insiderone.com/
 1670,3counter,3カウンター,http://3counters.net/
 1671,Roc.ad,Roc.ad,https://www.roq.ad/
-1672,X-aid,クロスエイド,
+1672,X-aid,クロスエイド,""
 1673,LogRocket,LogRocket,https://logrocket.com/
 1674,CookieBot,CookieBot,https://www.cookiebot.com/
-1675,Polyfill,Polyfill,
-1676,LINE Ads,LINE広告,
-1677,HAYABUSA,HAYABUSA,
+1675,Polyfill,Polyfill,""
+1676,LINE Ads,LINE広告,""
+1677,HAYABUSA,HAYABUSA,""
 1678,FreshLive,FreshLive,https://freshlive.tv/
 1679,ANTS,ANTS,https://ants.vn/
-1680,Scupio adnetwork,Scupio adnetwork,
+1680,Scupio adnetwork,Scupio adnetwork,""
 1681,ipstack,ipstack,https://ipstack.com/
 1682,OpenText,OpenText,https://www.opentext.com/
 1683,ADME,ADME,https://www.ca-adme.jp/
 1684,Display & Video 360( Ad Exchange ),Display & Video 360( Ad Exchange ),https://marketingplatform.google.com/about/display-video-360/
-1685,GeeeN OneTag,GeeeN OneTag,
+1685,GeeeN OneTag,GeeeN OneTag,""
 1686,Fotorama,Fotorama,https://fotorama.io/
 1687,infolinks,infolinks,https://www.infolinks.com/
-1688,sociomantic,sociomantic,
+1688,sociomantic,sociomantic,""
 1689,Deltatre,Deltatre,https://www.deltatre.com/
 1690,Iframely,Iframely,https://iframely.com/
 1691,Alexa,Alexa,https://www.amazon.com/dp/B0DCCNHWV5?ref=aucc_web_red_xaa_evgn_tx_0001
@@ -1031,8 +1032,8 @@ service_id,name,name_ja,url
 1694,LBC API,LBC API,https://usonar.co.jp/service/usonar/#serviceLbc
 1695,Webtype,Webtype,https://typenetwork.com/support#webtype-licenses
 1696,Audience73,Audinece73,http://www.audience73.com/
-1697,ENGINE Media Exchange,ENGINE Media Exchange,
-1698,Google Optimize,Google オプティマイズ,
+1697,ENGINE Media Exchange,ENGINE Media Exchange,""
+1698,Google Optimize,Google オプティマイズ,""
 1699,hanplus,反響メールプラス,https://ps.hanplus.jp/
 1700,isMedia DMP,isMedia DMP,https://www.jbpress.co.jp/list/corporate/bmf/
 1701,KASIKA,KASIKA,https://cocolive.co.jp/
@@ -1041,20 +1042,20 @@ service_id,name,name_ja,url
 1704,Crisp,Crisp,https://crisp.chat/en/
 1705,Google Cloud Storage,Google Cloud Storage,https://cloud.google.com/storage
 1706,BOTCHAN,BOTCHAN,https://botchan.io/
-1707,Air Trip Smart DX,エアトリスマートDX,
+1707,Air Trip Smart DX,エアトリスマートDX,""
 1708,WideSpace,WideSpace,https://www.azerion.com/
 1710,XPO,XPO,https://www.knorex.com/
 1712,Liny,Liny,https://line-sm.com/
 1713,BowNow Form,BowNow フォーム,https://bow-now.jp/
 1714,URICHAN,URICHAN,https://www.mmmmm.co.jp/
-1715,Emolytics,Emolytics,
+1715,Emolytics,Emolytics,""
 1716,mobiAgent,モビエージェント,https://mobilus.co.jp/service/agent
 1717,ProTech Mail Checker,ProTech Mail Checker,https://www.showcase-tv.com/mail-checker/
 1718,4dk,ヨンディーケー,https://glucose.jp/
-1719,Nikkei BP Biz Board,日経BPビズボード,
+1719,Nikkei BP Biz Board,日経BPビズボード,""
 1720,Atlas,Atlas,https://marketing.nikkei.com/
 1721,Contentful,Contentful,https://www.contentful.com/
-1722,WhatYa,WhatYa,
+1722,WhatYa,WhatYa,""
 1723,SQREEM,SQREEM,https://sqreemtech.com/
 1724,Ameba Ownd,Ameba Ownd,https://www.amebaownd.com/
 1725,DCR,DCR,https://www.digitalcontrolroom.com/
@@ -1063,8 +1064,8 @@ service_id,name,name_ja,url
 1728,CMNetwork,CMNetwork,https://cmnw.jp/
 1729,OpenText Optimost,OpenText Optimost,https://www.opentext.com/ja-jp/products/core-web-optimization
 1730,IMDb,IMDb,https://www.imdb.com/
-1731,Yahoo Dot Tags,Yahoo Dot Tags,
-1732,kantanchat,かんたんチャット,https://www.m-piece.com/kantanchat/
+1731,Yahoo Dot Tags,Yahoo Dot Tags,""
+1732,kantanchat,かんたんチャット,https://clad.inc/product/kantanchat/
 1733,GORILLA EFO,GORILLA EFO,https://gorilla-efo.com/
 1735,Cheetah Digital by ZETA,Cheetah Digital by ZETA,https://zetaglobal.com/cheetah-digital/
 1736,KUZEN,KUZEN,https://kuzen.io/
@@ -1074,18 +1075,18 @@ service_id,name,name_ja,url
 1740,AdVision,AdVision,https://advision.yicha.jp/ad_vision/jsp/login.jsp
 1741,SOVE,SOVE,https://l.sove-x.com/contents/sove/
 1742,Yahoo! ID Connect,Yahoo! ID連携,https://developer.yahoo.co.jp/yconnect/
-1743,Ad Counter,Ad Counter,
+1743,Ad Counter,Ad Counter,""
 1744,Sentry,Sentry,https://sentry.io/welcome/
 1745,TSUNAGARU,TSUNAGARU,http://linebc.jp/
 1746,Customer Intelligence,Customer Intelligence,https://www.sas.com/ja_jp/solutions/customer-intelligence/marketing.html
 1747,Promises,Promises,https://www.promisejs.org/
-1748,ClearBrain,ClearBrain,https://www.clearbrain.com/
+1748,ClearBrain,ClearBrain,""
 1749,SOJERN,SOJERN,https://www.sojern.com/
 1750,ADARA Analytics,ADARAアナリティクス,https://adara.com/
 1751,NuData Security,NuData Security,https://www.mastercard.com/globalrisk/en/resources/all-resources/prevent.html
-1752,Visual IQ,Visual IQ,
+1752,Visual IQ,Visual IQ,""
 1753,iSpot.tv,iSpot.tv,https://www.ispot.tv/
-1754,trvl-px Web beacon,trvl-px Web beacon,
+1754,trvl-px Web beacon,trvl-px Web beacon,""
 1755,GMO MARS,GMO MARS,https://www.koukoku.jp/
 1757,headwayapp.co,headwayapp.co,https://headwayapp.co/
 1758,Rentracks,Rentracks,https://www.rentracks.co.jp/
@@ -1101,21 +1102,21 @@ service_id,name,name_ja,url
 1768,QUICK Research Net,QUICKリサーチネット,https://qw407.qhit.net/quickresearchnet/rn_preview.asp
 1769,Stock Quote,Stock Quote,https://www.labci.com/products_stock_quote.html
 1770,Minichi Douga,ポイントたまる！まいにち動画,https://www.ponta.jp/c/campaign/mainichi/
-1771,CHORDSHIP,CHORDSHIP,
+1771,CHORDSHIP,CHORDSHIP,""
 1772,ReeMo,ReeMo,https://reemo.me/
 1773,QUORIZa,QUORIZa,https://quoriza.net/
-1774,Deep Track,Deep Track,
+1774,Deep Track,Deep Track,""
 1775,JAPAN Cloud Panel,ジャパンクラウドパネル,https://gmo-research.ai/service/panel/jcp
 1776,Camtsuku,キャンつく,https://camtsuku.com/
 1777,visumo,visumo,https://visumo.asia/
-1778,noticious,noticious,
+1778,noticious,noticious,""
 1779,Crownpeak,Crownpeak,https://www.crownpeak.com/
-1780,flashtalking,flashtalking,
+1780,flashtalking,flashtalking,""
 1782,Vivace,Vivace,https://www.forcia.com/news/2017/01/11-1.html
 1783,Skyrocket,Skyrocket,https://product.ca-skyrocket.com/
 1784,Tripstar,エアトリ,https://www.tripstar.co.jp/
-1785,StoreMatch,ストアマッチ,
-1786,BySide,BySide,https://byside.com/
+1785,StoreMatch,ストアマッチ,""
+1786,CoreMedia,CoreMedia,https://www.coremedia.com/
 1787,AdCent,AdCent,https://www.a-works.asia/services/adcent
 1788,VIRTUAL AGENT,VIRTUAL AGENT,https://www.altius-apps.com/virtualagent/
 1789,Target Media Network,Target Media Network,https://roundel.com/
@@ -1134,8 +1135,8 @@ service_id,name,name_ja,url
 1803,Probance,Probance,https://www.brainpad.co.jp/probance/
 1804,Booking.com Affiate,Booking.com Affiate,https://www.booking.com/affiliate-program/v2/index.ja.html
 1805,fuseitaisaku,不正対策.com,https://www.fuseitaisaku.com/
-1806,Raygun,Raygun,
-1807,TopBuzz,TopBuzz,
+1806,Raygun,Raygun,""
+1807,TopBuzz,TopBuzz,""
 1808,GMO  Smaad,GMO  Smaad,https://smaad.net/
 1809,GENIEE SEARCH(Pop Find),GENIEE SEARCH(ポップファインド),https://www.bsearchtech.com/products/popfind/
 1810,Pop Ranking,ポップランキング,https://www.bsearchtech.com/products/popranking/
@@ -1145,14 +1146,14 @@ service_id,name,name_ja,url
 1814,Freshchat,Freshchat,https://www.freshworks.com/live-chat-software/
 1815,GoQSmile,GoQSmile,https://goqsmile.com/
 1816,Google Sheets,Google スプレッドシート,https://workspace.google.com/products/sheets/
-1817,CSP DEMO,CSP DEMO,
+1817,CSP DEMO,CSP DEMO,""
 1818,Support Chatbot,サポートチャットボット,https://chatbot.userlocal.jp/
-1819,Gyro-n LPO,Gyro-n LPO,
+1819,Gyro-n LPO,Gyro-n LPO,""
 1820,Yext,イエクスト,https://www.yext.com/
 1821,LINE Share button,LINEで送るボタン,https://developers.line.biz/ja/docs/line-social-plugins/install-guide/using-line-share-buttons/
 1822,SpeedCurve LUX,SpeedCurve LUX,https://www.speedcurve.com/features/performance-monitoring/
 1823,note,note,https://note.com/
-1824,Channel,チャネルトーク,https://channel.io/ja
+1824,Channel,チャネルトーク,https://channel.io/jp
 1825,PAY.JP,PAY.JP,https://pay.jp/
 1826,RTB House,RTB House,https://www.rtbhouse.com/
 1827,Scinable,シナブル,https://www.scinable.com/
@@ -1165,8 +1166,8 @@ service_id,name,name_ja,url
 1834,Matomo Analytics Cloud,Matomo Analytics Cloud,https://matomo.org/matomo-cloud/
 1835,Zendesk Chat,Zendesk Chat,https://www.zendesk.co.jp/service/messaging/live-chat-software/
 1836,OneTrust,OneTrust,https://www.onetrust.com/
-1837,Butterfly,Butterfly,
-1838,chroko,クロコ,
+1837,Butterfly,Butterfly,""
+1838,chroko,クロコ,""
 1839,AIQUA,アイコア,https://www.appier.com/en/products/aiqua
 1840,HYTRA,ハイトラ,https://www.m0mentum.co.jp/
 1841,Reckoner,Reckoner,https://reckoner.io/
@@ -1180,45 +1181,45 @@ service_id,name,name_ja,url
 1849,AutoStream,AutoStream,https://flux.jp/service/
 1850,PRIVACI.ai,PRIVACI.ai,https://securiti.ai/products/data-privacy/
 1851,CIVIC,CIVIC,https://www.civicuk.com/
-1852,analyze.ly,analyze.ly,
-1853,Siba,シーバ,
+1852,analyze.ly,analyze.ly,""
+1853,Siba,シーバ,""
 1854,lekumo,lekumo,https://www.lekumo.jp/
 1855,BlueConic,BlueConic,https://www.blueconic.com/
 1856,TRUSTX,TRUSTX,https://trustx.org/
 1857,OneTag,OneTag,https://www.onetag.com/
 1858,Snapchat Ads for Business,Snapchat Ads for Business,https://forbusiness.snapchat.com/
 1859,Placed,Placed,https://www.placed.com/
-1860,DMP DC Catalyzer,DMP DC Catalyzer,
+1860,DMP DC Catalyzer,DMP DC Catalyzer,""
 1861,Sovrn //Commerce,Sovrn //Commerce,https://www.sovrn.com/commerce/
 1862,Google Drive,Google ドライブ,https://workspace.google.com/products/drive/
 1863,relaido,relaido,https://relaido.co.jp/
 1864,Ugokuhito,うごくひと2,http://ugo2.jp/
-1865,simplepage,シンプルページ,
+1865,simplepage,シンプルページ,""
 1866,Form-Mailer,フォームメーラー,https://www.form-mailer.jp/
 1867,D&B Visitor Intelligence,D&B Visitor Intelligence,https://www.dnb.com/products/marketing-sales/dnb-visitor-intelligence.html
 1868,issuu,issuu,https://issuu.com/
 1869,Episerver Intelligence Cloud,Episerver Intelligence Cloud,https://www.optimizely.com/idio/
 1870,TrueLoyal,TrueLoyal,https://www.trueloyal.com/
 1871,Acquia Lift,Acquia Lift,https://www.acquia.com/jp/resources
-1872,Triblio,Triblio,
-1873,SoloSegment,SoloSegment,
+1872,Triblio,Triblio,""
+1873,SoloSegment,SoloSegment,""
 1874,Growave.io,Growave.io,https://www.growave.io/
-1875,Skmeijin,速攻名人,
+1875,Skmeijin,速攻名人,""
 1876,Quantum Metric,Quantum Metric,https://www.quantummetric.com/
 1877,Smartstream,Smartstream,https://www.smartstream.ne.jp/
 1878,Google Slides,Google スライド,https://workspace.google.com/products/slides/
 1879,Tapfiliate,Tapfiliate,https://tapfiliate.com/
-1880,dooi,dooi,
-1881,Trust 360,トラスト360,https://privtech.co.jp/service/trust360/
+1880,dooi,dooi,""
+1881,Trust 360,トラスト360,https://service.privtech.co.jp/trust360-cmp
 1882,Site Director,サイトディレクター,https://www.sitedirector.jp/
-1883,SUUMO Homepage Service,SUUMO ホームページサービス,
+1883,SUUMO Homepage Service,SUUMO ホームページサービス,""
 1884,WebManagerPro3,WebManagerPro3,https://www.n-create.co.jp/pr/product/wmp3/
 1885,Homepage Direct Service PLUS,ホームページダイレクトサービスプラス,https://hpdsp.jp/
 1886,Xserver Web Font,エックスサーバー Webフォント,https://www.xserver.ne.jp/functions/service_webfont.php
 1887,Multi Device CMS,マルチデバイスCMS,https://cybc.jp/10800101/
 1888,Mapbox,Mapbox,https://www.mapbox.com/maps
 1889,BL.Homepage,ビーエルホームページ,https://www.blhomepage.info/
-1890,systemN,systemN,https://primenumber.co.jp/system/#system_n
+1890,systemN,systemN,https://primenumber.com/#system_n
 1891,CHARGEBEE,CHARGEBEE,https://www.chargebee.com/
 1892,Iterate,Iterate,https://iteratehq.com/
 1893,Permutive,Permutive,https://permutive.com/
@@ -1226,21 +1227,21 @@ service_id,name,name_ja,url
 1895,Vidyard,Vidyard,https://www.vidyard.com/
 1897,Rakuten Insight,Rakuten Insight,https://member.insight.rakuten.co.jp/
 1898,GeoEdge,GeoEdge,https://www.geoedge.com/
-1899,Avocet,Avocet,
+1899,Avocet,Avocet,""
 1900,THETA360,THETA360,https://www.ricoh360.com/ja/theta/
 1901,ShortPixel,ShortPixel,https://shortpixel.com/
 1902,WISEO,ワイズ,http://wiseo.jp/users/login
 1903,Trip AI Concierge,トリップAIコンシェルジュ,https://wwws.jalan.net/bs/tai/doc/lp/
 1904,SmartRelease,SmartRelease,https://www.cpi.ad.jp/shared/bs/smartrelease/
 1905,BlueMonkey,BlueMonkey,https://bluemonkey.jp/
-1906,Yahoo Analytics,Yahoo Analytics,
+1906,Yahoo Analytics,Yahoo Analytics,""
 1907,ZEOTAP,ZEOTAP,https://zeotap.com/
 1908,samplicio.us,samplicio.us,https://samplicio.us/
 1909,ZIPSERVER,ZIPSERVER,https://www.zipserver.jp/
 1910,affiliateone,アフィリエイトワン,https://affiliateone.jp/
 1911,kreisel,クライゼル,https://kreisel.krs.bz/
 1912,YubinBango,YubinBango,https://yubinbango.github.io/
-1913,Cloud CMO,Cloud CMO,
+1913,Cloud CMO,Cloud CMO,""
 1914,ReBlo,リブロ,https://reblo.jp/
 1915,Rebpo,リブポ,https://rebpo.net/
 1916,tripla Bot,tripla Bot,https://tripla.io/ai-chatbot/
@@ -1249,7 +1250,7 @@ service_id,name,name_ja,url
 1919,Loggly,Loggly,https://www.loggly.com/
 1920,ShareCast,シェアキャスト,https://www.bitmedia.co.jp/sharecast.html
 1921,CAULY,CAULY,https://www.cauly.net/en/index.html
-1922,Retargetly,Retargetly,
+1922,Retargetly,Retargetly,""
 1923,DynAdmic,DynAdmic,https://eu.dynadmic.com/
 1924,mitte-X,mitte-X,https://www.ist-software.co.jp/?p=we-page-menu-1-1&category=14569&key=14689&type=contents
 1925,Raku Uru Cart,らくうるカート,https://business.kuronekoyamato.co.jp/raku-uru/
@@ -1259,37 +1260,37 @@ service_id,name,name_ja,url
 1929,Phenom TXM,Phenom TXM,https://www.phenom.com/
 1930,Talenthub.io,Talenthub.io,https://www.starred.com/talenthub
 1931,AudioEye,AudioEye,https://www.audioeye.com/
-1932,audiens,audiens,https://audiens.com/
+1932,audiens,audiens,""
 1933,VALIS-CPX,VALIS-CPX,https://valis-cpx.com/
-1934,Ethyca,Ethyca,https://ethyca.com/
+1934,Ethyca,Ethyca,https://www.ethyca.com/
 1935,webtru(Staging),webtru(ステージング),https://webtru.io/
 1936,Datadog,Datadog,https://www.datadoghq.com/
 1938,Google Code,Google Code,https://code.google.com/
-1939,CAREECON Sites,キャリコンサイツ,https://start.eat.auto/
+1939,CAREECON Sites,キャリコンサイツ,""
 1940,OMISENOMIKATA,お店のミカタ,https://omisenomikata.jp/
 1941,tukiyama,tukiyama,https://ssl.tukiyama.jp/
 1942,MyClinic EXPRESS,マイクリニックエクスプレス,https://www.myclinicexpress.jp/
 1943,Weebly,Weebly,https://www.weebly.com/
 1944,rays-counter,rays-counter,http://rays-counter.com/
-1945,TRUENDO,TRUENDO,https://www.truendo.com/
+1945,TRUENDO,TRUENDO,https://truendo.com/en
 1946,Bablic,Bablic,https://www.bablic.com/
 1947,Clarity,Clarity,https://clarity.microsoft.com/
 1955,LINE Login,LINEログイン,https://developers.line.biz/ja/services/line-login/
 1956,Facebook Login,Facebookログイン,https://developers.facebook.com/docs/facebook-login
 1957,Google Sign-In,Google サインイン,https://developers.google.com/identity/sign-in/web/sign-in
-1958,Sign in with Apple,Sign in with Apple,
-1959,Log in with Twitter,Log in with Twitter,
+1958,Sign in with Apple,Sign in with Apple,""
+1959,Log in with Twitter,Log in with Twitter,""
 1960,FXStreet,FXStreet,https://www.fxstreet.com/
 1961,Zenrin Japan Map (Itsumo NAVI),いつもNAVI,https://www.zenrin-datacom.net/solution/api
 1962,amCharts,amCharts,https://www.amcharts.com/
 1963,Penglue,Penglue,https://penglue.jp/
 1964,craft.,craft.,https://glider-associates.com/news/14760/
-1965,AdTheorent,AdTheorent,
-1966,Loghy,Loghy,https://help.sns-loghy.jp/hc/ja
-1967,Qonsent,Qonsent,
+1965,AdTheorent,AdTheorent,""
+1966,Loghy,Loghy,""
+1967,Qonsent,Qonsent,""
 1968,FingerprintJS,FingerprintJS,https://fingerprint.com/
 1969,HubSpot (Tracker),HubSpot (トラッカー),https://www.hubspot.com/
-1970,anybot,anybot,https://anybot.me/
+1970,anybot,anybot,https://www.anybot.me/
 1971,withdesk,withdesk,https://www.withdesk.com/
 1972,MOLOCO,MOLOCO,https://www.moloco.com/
 1973,Oricou Blog AI,おりこうブログAI,https://oricoh-blog.com/ai/
@@ -1304,36 +1305,36 @@ service_id,name,name_ja,url
 1982,LeadsRx,LeadsRx,https://leadsrx.com/
 1983,AdXcel,AdXcel,http://www.adxcel-ec2.com/
 1984,Sportradar ad:s,Sportradar ad:s,https://sportradar.com/betting-gaming/marketing-services/ads/
-1985,DataCurrent Tag Manager,DataCurrent Tag Manager,
+1985,DataCurrent Tag Manager,DataCurrent Tag Manager,""
 1986,MyKomon,MyKomon,https://info.mykomon.com/
 1987,easy my shop,イージーマイショップ,https://www.easy-myshop.jp/
 1988,IELOVE CLOUD,いえらぶCLOUD,https://ielove-cloud.jp/
-1989,Neko Ebis,猫えびす,http://www.netten.jp/soft.html
+1989,NekoEbisu PLUS,ネコエビス プラス,https://neuralmarketing.co.jp/service/web/nekoebisu-plus/
 1990,Flips,Flips,https://www.flips.jp/
-1991,BEST HomePage,BESTホームページ,https://bestbiz.jp/index.html
+1991,BEST HomePage,BESTホームページ,https://www.best-hp.jp/
 1992,note CMS,note CMS,https://www.rinpa-y.com/index.php/web
 1993,TradingView,TradingView,https://www.tradingview.com/
 1994,Hayabusa CMS,ハヤブサCMS,https://www.hayabusacms.com/
 1995,JUGEM,JUGEM,https://jugem.jp/
 1996,Groovy Web Platform,グルービーWebプラットフォーム,https://www.groovy-m.com/services/
 1997,AppsFlyer,AppsFlyer,https://www.appsflyer.com/
-1998,Realm,Realm,https://realm.io/
+1998,Realm,Realm,""
 1999,Moment.js,Moment.js,https://momentjs.com/
 2000,GraphCMS,GraphCMS,https://hygraph.com/
 2001,Firebase,Firebase,https://firebase.google.com/
 2002,Google AMP Client ID Library,Google AMP Client ID Library,https://github.com/google/amp-client-id-library
-2003,LiveRamp Privacy Manager,LiveRamp Privacy Manager,https://liveramp.com/our-platform/
+2003,LiveRamp Privacy Manager,LiveRamp Privacy Manager,https://liveramp.com/our-platform
 2004,Ligla,Ligla,https://ligla.jp/
 2005,TikTok Analytics,TikTok Analytics,https://www.tiktok.com/creator-academy/en/article/tool-analytics-intro
 2006,Amazon API Gateway,Amazon API Gateway,https://aws.amazon.com/api-gateway/
 2007,athome HomePage Tools,athome ホームページ作成ツール,https://business.athome.jp/service/hp_tool/
 2008,SIMPLE BOOK,シンプルブック,https://www.sb2-demo.com/
 2009,ecforce,ecforce,https://ec-force.com/
-2010,Yandex.Metrica,Yandex.Metrica,https://metrica.yandex.com/promo/product
+2010,Yandex.Metrica,Yandex.Metrica,https://ads.yandex/metrica
 2011,Hai Hai Mail,配配メール,https://www.hai2mail.jp/
 2012,Google Analytics 4 property,Google アナリティクス 4 プロパティ,https://support.google.com/analytics/answer/10089681
 2013,CV GETTER powered by KaiU,CV GETTER powered by KaiU,https://www.raysus-inc.jp/cvg_lp/
-2014,TOKU TAG,TOKU TAG,https://toku-tag.jp/login
+2014,TOKU TAG,TOKU TAG,""
 2015,Spider AF,Spider AF,https://spideraf.com/
 2016,goline,ゴーライン,https://digimarl.com/goline-cdp/
 2017,AdGeneration SSP,AdGeneration SSP,https://supership.jp/business/adgeneration/
@@ -1360,20 +1361,20 @@ service_id,name,name_ja,url
 2040,Yahoo! MAP,Yahoo!地図,https://map.yahoo.co.jp/
 2041,ID5,ID5,https://id5.io/
 2042,LTV-Lab,LTV-Lab,https://ltv-lab.jp/
-2043,Quantcast Choice,Quantcast Choice,
+2043,Quantcast Choice,Quantcast Choice,""
 2044,koterin,コテリン,https://permalink-system.com/
 2045,Boltive,Boltive,https://www.boltive.com/
 2046,SaaSke,サスケ,https://www.saaske.com/
 2047,Auth0,Auth0,https://auth0.com/
 2048,Air work,Airワーク 採用管理,https://airregi.jp/work/recruitment/
 2049,ADA CLOUD MARKETING TOOL,ADA CLOUD MARKETING TOOL,https://www.ada-cloud.com/dashboard
-2050,Draco,Draco,https://www.excrie.co.jp/ad-media/draco/
+2050,Draco,Draco,https://www.excrie.co.jp/service/ad-media/draco
 2051,zeals,ジールス,https://chatcommerce.zeals.co.jp/
 2052,note social button,「noteで書く」ボタン,https://www.help-note.com/hc/ja/articles/360000272622/
 2053,Toriaezu HP,とりあえずHP,https://pr.toriaez.jp/
 2054,Excite Blog (Analytics),エキサイトブログ（アクセス解析）,https://www.exblog.jp/
 2055,fam8,fam∞,https://www.f-ing.co.jp/fam8/
-2056,ponpare mall,ポンパレモール,
+2056,ponpare mall,ポンパレモール,""
 2057,CHINTAI NET,CHINTAIネット,https://www.chintai.net/
 2058,News Suite Ad Network,News Suite Ad Network,https://c.socialife.sony.net/pr/mediaguide/newssuite/
 2059,e-nekoshop,e-ネコショップ,https://www.nekonet.co.jp/
@@ -1384,7 +1385,7 @@ service_id,name,name_ja,url
 2064,AnyDigital,AnyDigital,https://any-digital.com/en
 2065,MonotaRO,MonotaRO,https://www.monotaro.com/
 2066,SharedID,SharedID,https://prebid.org/product-suite/sharedid-2/
-2067,VeleT,VeleT,
+2067,VeleT,VeleT,""
 2068,ONE's Data,ONE's Data,https://onesdata.com/
 2069,Didomi,Didomi,https://www.didomi.io/
 2070,ObotAI,ObotAI,https://obot-ai.com/
@@ -1393,10 +1394,10 @@ service_id,name,name_ja,url
 2073,FLIP,FLIP,https://flip-nine.jp/
 2074,Zscaler Internet Access,Zscaler Internet Access,https://www.zscaler.com/products-and-solutions/zscaler-internet-access
 2075,HamaZo,はまぞう,https://www.hamazo.tv/
-2076,omni7,オムニ７,
+2076,omni7,オムニ７,""
 2077,seven affiliate,セブンアフィリエイト,https://www.omni7.jp/general/static/7af20210701/
 2078,homify portal,homify portal,https://www.homify.com/
-2079,Geniee DMP,Geniee DMP,https://geniee.co.jp/products/ssp.php
+2079,Geniee DMP,Geniee DMP,https://geniee.co.jp/products/dmp/
 2080,Cookie Information,Cookie Information,https://cookieinformation.com/
 2081,Zoho Pagesense,Zoho Pagesense,https://www.zoho.com/jp/pagesense/
 2082,Zoho Campaigns,Zoho Campaigns,https://www.zoho.com/campaigns/
@@ -1416,13 +1417,13 @@ service_id,name,name_ja,url
 2099,BASE (Tracker),BASE (トラッカー),https://thebase.com/
 2100,STREAKS Online Video Platform,STREAKS Online Video Platform,https://cloud.play.jp/streaks/
 2101,SB Payment Service,SBペイメントサービス,https://www.sbpayment.jp/
-2102,HiCustomer,HiCustomer,
+2102,HiCustomer,HiCustomer,""
 2103,Appcues,Appcues,https://www.appcues.com/
 2104,e-shops cart S,e-shopsカートS,https://cart.e-shops.jp/
 2105,Crayon,クレヨン,https://crayon.e-shops.jp/
 2106,Google AdSense,Google AdSense,https://adsense.google.com/start/
 2107,microCMS,microCMS,https://microcms.io/
-2110,af-mark.jp,af-mark.jp,
+2110,af-mark.jp,af-mark.jp,""
 2111,C3 Metrics,C3 Metrics,https://www.c3metrics.com/
 2112,affitown,affitown,https://ad.atown.jp/adserver/top.af
 2113,ReviCo,ReviCo,https://www.revico.jp/
@@ -1433,19 +1434,19 @@ service_id,name,name_ja,url
 2118,Bebot,Bebot,https://www.be-spoke.io/
 2119,Spacely,Spacely,https://info.spacely.co.jp/
 2120,SCORE,SCORE,https://ma-score.jp/
-2121,Fuel UX,Fuel UX,
+2121,Fuel UX,Fuel UX,""
 2123,GeistM,GeistM,https://geistm.com/
-2124,EMX,EMX,
+2124,EMX,EMX,""
 2125,Genie,Genie,https://hellogenie.com/
 2126,YOTTAA,YOTTAA,https://www.yottaa.com/
 2127,Piano ESP,Piano ESP,https://www.piano.io/product/amplifier/newsletters-notifications
 2128,consumable,consumable,https://consumable.com/
 2129,colossusssp,colossusssp,https://colossusmediassp.com/
 2130,INSIDE,INSIDE,https://www.powerfront.com/
-2131,1plusX,1plusX,
+2131,1plusX,1plusX,""
 2132,Synacor,Synacor,https://synacor.com/
 2133,StackAdapt,StackAdapt,https://www.stackadapt.com/
-2134,YeahTargeter,YeahTargeter,
+2134,YeahTargeter,YeahTargeter,""
 2135,smash,smash,https://smash.ne.jp/
 2136,Advangelists,Advangelists,https://advangelists.com/
 2137,Helpfeel,Helpfeel,https://www.helpfeel.com/
@@ -1457,10 +1458,10 @@ service_id,name,name_ja,url
 2146,N.Rich,N.Rich,https://nrich.io/
 2147,Klaviyo,Klaviyo,https://www.klaviyo.com/
 2148,Firebase Analytics,Firebaseアナリティクス,https://firebase.google.com/docs/analytics
-2149,NIFCLOUD mobile backend,ニフクラ mobile backend,
+2149,NIFCLOUD mobile backend,ニフクラ mobile backend,""
 2150,Firebase Crashlytics,Firebase Crashlytics,https://firebase.google.com/products/crashlytics
 2151,Page Integrity Manager,Page Integrity Manager,https://www.akamai.com/products/client-side-protection-compliance
-2152,model-transfer data fusion,モデル転移型データフュージョン,
+2152,model-transfer data fusion,モデル転移型データフュージョン,""
 2153,RMP,RMP,https://adsales.rakuten.co.jp/
 2156,DialogOne,DialogOne,https://www.hakuhodody-one.co.jp/service/marketing/full-funnel/engagement-solutions/dialogone/
 2157,mobilebook.jp,mobilebook.jp,https://mobilebook.jp/
@@ -1478,7 +1479,7 @@ service_id,name,name_ja,url
 2170,LoopMe,LoopMe,https://loopme.ai/
 2171,Hybrid Theory,Hybrid Theory,https://hybridtheory.com/
 2172,whos.amung.us,whos.amung.us,https://whos.amung.us/
-2173,Podsights,Podsights,
+2173,Podsights,Podsights,""
 2175,ISAM-1,アイサムワン,https://www.intasect.com/service/affiliate.html
 2176,Yaku Han JP,Yaku Han JP,https://yakuhanjp.qranoko.jp/
 2177,Tayori,Tayori,https://tayori.com/
@@ -1524,7 +1525,7 @@ service_id,name,name_ja,url
 2228,Adagio,Adagio,https://adagio.io/
 2229,Traffic Roots,Traffic Roots,https://trafficroots.com/
 2232,CleanAD,CleanAD,https://www.humansecurity.com/platform/solutions/malvertising-platforms/
-2234,Cockpit,コックピット,
+2234,Cockpit,コックピット,""
 2236,Vimeo (Tracking),Vimeo (トラッキング),https://vimeo.com/
 2237,MEDIAVINE,MEDIAVINE,https://www.mediavine.com/
 2238,Open Work,オープンワーク,https://www.openwork.jp/
@@ -1544,13 +1545,13 @@ service_id,name,name_ja,url
 2255,ActiBook,ActiBook,https://actibook.cloudcircus.jp/
 2256,Amazon Data Firehose,Amazon Data Firehose,https://aws.amazon.com/jp/firehose/
 2257,UserWay,UserWay,https://userway.org/
-2258,admixer,admixer,
+2258,admixer,admixer,""
 2259,sectigo,sectigo,https://www.sectigo.com/
 2260,Amazon Trust Service,Amazon Trust Service,https://www.amazontrust.com/
 2261,JPOSTAL,JPOSTAL,https://github.com/ninton/jquery.jpostal.js/
 2262,PushTracker,PushTracker,https://push.appirits.com/
-2263,Survin,Survin,
-2264,IZANAI,IZANAI,https://izanai.cloudcircus.jp/
+2263,Survin,Survin,""
+2264,IZANAI,IZANAI,""
 2265,STUDIO PV Count,STUDIO PV数計測,https://studio.design/ja
 2267,STUDIO,STUDIO,https://studio.design/ja
 2268,FACIL'iti,ファシリティ,https://www.facil-iti.com/
@@ -1564,11 +1565,11 @@ service_id,name,name_ja,url
 2276,Lets Encrypt,Let’s Encrypt,https://letsencrypt.org/
 2277,merpay,メルペイ,https://jp.merpay.com/
 2278,Google Pay,Google Pay,https://pay.google.com/intl/en_us/about/
-2279,Google Tag Manager(app),Googleタグマネージャ(アプリ),
+2279,Google Tag Manager(app),Googleタグマネージャ(アプリ),""
 2280,MRC,マーケライズクラウド,https://www.markerise.com/mrc/
 2281,MRC(Tracking),マーケライズクラウド(トラッキング),https://www.markerise.com/mrc/
 2282,EventHub,EventHub,https://eventhub.jp/
-2283,Docomo AI agent API,ドコモAIエージェントAPI,
+2283,Docomo AI agent API,ドコモAIエージェントAPI,""
 2284,wisepops popup,wisepops,https://wisepops.com/
 2285,ThreatMetrix,ThreatMetrix,https://risk.lexisnexis.com/products/threatmetrix
 2286,FlexOne(nikkei.com),FlexOne(nikkei.com),https://www.hakuhodody-one.co.jp/service/marketing/media-solution/flexone/
@@ -1577,25 +1578,25 @@ service_id,name,name_ja,url
 2289,kukuLu,kukuLu,https://kukulu.jp/
 2290,ALPHA SCOPE,アルファスコープ,https://www.a-scope.com/
 2291,Unified ID 2.0,Unified ID 2.0,https://unifiedid.com/
-2292,Broach,Broach,
+2292,Broach,Broach,""
 2293,AdMob,AdMob,https://admob.google.com/home/
 2294,EmbedSocial,EmbedSocial,https://embedsocial.com/
-2295,Go NET,Go NET,https://gonet-ads.com/
+2295,Go NET,Go NET,https://gomobile.ai/#gonet
 2296,WalkMe,WalkMe,https://www.walkme.com/
 2297,Aniview (VIDEO AD SERVER),Aniview (VIDEO AD SERVER),https://aniview.com/video-ad-servers/
 2298,Aniview (VIDEO PLAYER),Aniview (VIDEO PLAYER),https://aniview.com/video-ad-player/
 2299,X link service,X link service,https://help.x.com/ja/using-x/url-shortener
-2300,Google News,Google News,
+2300,Google News,Google News,""
 2301,Vidoomy,Vidoomy,https://www.vidoomy.com/
-2302,Vidazoo,Vidazoo,https://vidazoo.com/
+2302,Vidazoo,Vidazoo,""
 2303,Bcovery,Bcovery,https://bcovery.com/
 2304,Digital East,Digital East,https://www.digitaleast.mobi/
 2305,WhatsApp,WhatsApp,https://www.whatsapp.com/
 2306,Piano,Piano,https://www.piano.io/
 2307,Mobon,Mobon,https://mobon.net/main/m2/
-2308,AdCorsa,AdCorsa,https://adcorsa.glossom.jp/
-2309,Apple Safe Browsing,Apple Safe Browsing,
-2310,Cootlogix,Cootlogix,https://www.cootlogix.com/
+2308,AdCorsa,AdCorsa,""
+2309,Apple Safe Browsing,Apple Safe Browsing,""
+2310,Cootlogix,Cootlogix,""
 2311,E-Planning,E-Planning,https://www.e-planning.net/
 2312,HERP Hire,HERP Hire,https://lp.herp.cloud/
 2313,Landingi,Landingi,https://landingi.com/
@@ -1606,7 +1607,7 @@ service_id,name,name_ja,url
 2318,Tailwind CSS,Tailwind CSS,https://tailwindcss.com/
 2319,Chat LP by Revive,Chat LP by Revive,https://revive-chat.io/
 2320,Cloudflare Web Analytics,Cloudflare Web Analytics,https://www.cloudflare.com/web-analytics/
-2321,Smartpay,Smartpay,https://smartpay.co/
+2321,Smartpay,Smartpay,""
 2322,Shop Pay,Shop Pay,https://shop.app/shop-pay
 2323,BookThatApp,BookThatApp,https://www.bookthatapp.com/
 2324,GetButton,GetButton,https://getbutton.io/
@@ -1624,18 +1625,18 @@ service_id,name,name_ja,url
 2336,AdaptMX,AdaptMX,https://adaptmx.com/
 2337,Tig,Tig,https://paronym.jp/
 2338,UniSearch,ユニサーチ,https://universal-knowledge.co.jp/
-2340,Eight Marketing Solutions,Eight Marketing Solutions,
+2340,Eight Marketing Solutions,Eight Marketing Solutions,""
 2341,Splunk Infrastructure Monitoring,Splunk Infrastructure Monitoring,https://www.splunk.com/en_us/products/infrastructure-monitoring.html
-2342,Liftoff,Liftoff,https://liftoff.io/
+2342,Liftoff,Liftoff,https://liftoff.ai/
 2343,jsonip.com,jsonip.com,https://getjsonip.com/
 2344,Bizzabo,Bizzabo,https://www.bizzabo.com/
-2345,C-team,C-team,
+2345,C-team,C-team,""
 2346,MonitoringPlus,モニタリングプラス,https://www.monitoring-plus.jp/
 2347,e-SCOTT Smart,e-SCOTT Smart,https://www.splinks.co.jp/consider/creditcard/in-app-sdk/
 2348,Rakuten Minshu,楽天みん就,https://www.nikki.ne.jp/
 2349,OPTEMO,OPTEMO,https://optemo.co.jp/
 2351,Cognitiv,Cognitiv,https://www.cognitiv.ai/
-2352,ALLADiN,アラジン,
+2352,ALLADiN,アラジン,""
 2353,YBM For Developers,YBM For Developers,https://business.kuronekoyamato.co.jp/service/lineup/business_members/api/
 2354,toridori ad,toridori ad,https://toridori.co.jp/ad/
 2356,Beney,Beney,https://beney.com/ja/
@@ -1644,17 +1645,17 @@ service_id,name,name_ja,url
 2359,AnnounceKit,AnnounceKit,https://announcekit.app/
 2360,probo(ahamo site search),probo(ahamoウェブサイト内検索),https://www.bsearchtech.com/products/probo/
 2361,Firework,Firework,https://firework.com/
-2362,ST&E,スタンディ,https://www.b-story.co.jp/service/stande
+2362,ST&E,スタンディ,https://www.stande.jp/service/form
 2363,Yomitoru,ヨミトル,https://shindancloud.com/
-2364,Digital Ad Ratings,Digital Ad Ratings,https://www.nielsen.com/solutions/audience-measurement/digital-ad-ratings/
+2364,Digital Ad Ratings,Digital Ad Ratings,https://www.nielsen.com/solutions/audience-measurement/digital-ad-ratings/?gad
 2365,cookiewow,cookiewow,https://cookiewow.com/
 2366,Tag Plus,タグプラス,https://www.tag-plus.com/
-2367,seikaad,セイカアド,
-2368,ChatGPT,ChatGPT,https://openai.com/chatgpt
+2367,seikaad,セイカアド,""
+2368,ChatGPT,ChatGPT,https://chatgpt.com/
 2369,App Store,App Store,https://www.apple.com/app-store/
 2370,TED,TED,https://www.ted.com/
 2371,3ple.jp,サンプル百貨店,https://www.3ple.jp/
-2372,Threads,Threads,https://www.threads.net/
+2372,Threads,Threads,https://www.threads.com/
 2373,MICE Solutions(Softbank),MICEソリューションズ(ソフトバンク),https://www.mice-platform.com/corporate
 2374,TikTok Ads,TikTok広告,https://ads.tiktok.com/business/ja?tt4b_lang_redirect=1
 2375,tripla Connect,tripla Connect,https://tripla.io/connect/
@@ -1663,7 +1664,7 @@ service_id,name,name_ja,url
 2378,tripla Book(Staging),tripla Book(ステージング),https://tripla.io/booking-engine/
 2379,tripla Bot(Staging),tripla Bot(ステージング),https://tripla.io/ai-chatbot/
 2380,tripla Connect(Staging),tripla Connect(ステージング),https://tripla.io/connect/
-2381,8th Wall,8th Wall,https://www.8thwall.com/
+2381,8th Wall,8th Wall,https://8thwall.org/
 2382,Indeed Ads,Indeed広告,https://www.indeed.com/
 2383,100widgets.com,100widgets.com,https://100widgets.com/
 2384,e-Volution,e-Volution,https://e-volution.ai/
@@ -1675,7 +1676,7 @@ service_id,name,name_ja,url
 2390,Trig's,Trig's,https://trigs-sockets.com/
 2391,LEEEP,LEEEP,https://leeep.jp/
 2392,QANT Web,QANT Web,https://qant.jp/product/web
-2393,People Driven DMP,People Driven DMP,
+2393,People Driven DMP,People Driven DMP,""
 2394,UNIVERSE Ads,UNIVERSE Ads,https://demand-services.microad.jp/
 2395,Challenging Japan,チャレンジングジャパン,http://www.challenging.jp/
 2396,SLVRbullet,シルバーバレット,https://slvrbullet.bltinc.co.jp/
@@ -1683,11 +1684,11 @@ service_id,name,name_ja,url
 2398,d POINT CLUB,dポイントクラブ,https://dpoint.docomo.ne.jp/index.html
 2399,GPoint,Gポイント,https://www.gpoint.co.jp/
 2400,Seven Payment Service,セブン・ペイメントサービス,https://www.7ps.jp/
-2401,LINE Pay,LINE Pay,https://linepaycorp.com/ja/#Businessdesc
+2401,LINE Pay,LINE Pay,""
 2402,MediaString,MediaString,https://mediastring.net/
 2403,Truvid,Truvid,https://truvid.com/about
 2404,DataTables CDN,DataTables CDN,https://cdn.datatables.net/
-2405,WorldTimeAPI,WorldTimeAPI,https://worldtimeapi.org/
+2405,WorldTimeAPI,WorldTimeAPI,""
 2406,Tebot,Tebot,https://anotete.co.jp/tebot/
 2407,HR MONSTER,HR モンスター,https://hr-monster.io/
 2408,indestructible type,indestructible type,https://indestructibletype.com/Home.html
@@ -1699,7 +1700,7 @@ service_id,name,name_ja,url
 2414,MPEmbed,MPEmbed,https://mpembed.com/
 2415,unisize,unisize,https://cl.unisize.makip.co.jp/
 2416,Perfect View Network,パーフェクトビューネットワーク,https://www.www2.cmertv.co.jp/smartphone-ad
-2417,Ogury Limited,Ogury Limited,https://ogury.com/
+2417,Ogury Limited,Ogury Limited,https://www.ogury.com/
 2418,Mobkoi,Mobkoi,https://www.mobkoi.com/jp
 2419,Moribus,Moribus,https://moribus.jp/services/
 2420,radiko,radiko,https://radiko.jp/
@@ -1712,7 +1713,7 @@ service_id,name,name_ja,url
 2427,Zoho Marketing Automation,Zoho Marketing Automation,https://www.zoho.com/jp/marketingautomation/
 2428,Chatra,Chatra,https://chatra.com/jp/
 2429,Zoho Forms,Zoho Forms,https://www.zoho.com/forms/
-2430,GOOD FOR JOB,GOOD FOR JOB,https://good-for-job.com/
+2430,GOOD FOR JOB,GOOD FOR JOB,https://www.good-for-job.jp
 2431,SASQUATCH,サスカッチ,https://www.j2complex.co.jp/sasquatch/
 2432,ImageEngine,ImageEngine,https://imageengine.io/about-imageengine/
 2433,pacificleague.com,パ・リーグ.com,https://pacificleague.com/
@@ -1731,19 +1732,19 @@ service_id,name,name_ja,url
 2446,Plunker,Plunker,https://plnkr.co/
 2447,Hextom,Hextom,https://hextom.com/
 2448,J PRESIDENT.NET,日本の社長.tv,https://j-president.net/
-2449,Mico Cloud,Mico Cloud,https://www.mico-cloud.jp/
+2449,Mico Engage AI,Mico Engage AI,https://mico-inc.com/engage/
 2450,PEP,ペップ,https://pep.work/
 2451,sora-annai,そら案内,https://sora-annai.jp/
 2452,talkappi,talkappi,https://talkappi.com/
 2453,classtream,クラストリーム,https://classtream.jp/
 2454,PrimeAd,PrimeAd,https://www.primead.jp/
 2455,Q&Ai,キューアンドエーアイ,https://www.q-ai.jp/
-2456,LEADPAD,LEADPAD,https://leadpad.io/
+2456,LEADPAD,LEADPAD,https://lp.leadpad.io/
 2457,ChiChat,ChiChat,https://chichat.tech/
 2458,Fontstore,Fontstore,https://www.fontstore.com/
-2459,EVOLV AI,EVOLV AI,https://evolv.ai/
+2459,EVOLV AI,EVOLV AI,""
 2460,ZoomInfo,ZoomInfo,https://www.zoominfo.com/
-2461,Mazrica Sales,Mazrica Sales,https://product-senses.mazrica.com/
+2461,Mazrica Sales,Mazrica Sales,https://mazrica.com/product/
 2462,1Roll,1Roll,https://www.1roll.jp/
 2463,PUSHCODE,PUSHCODE,https://www.pushcode.jp/
 2464,Digital Content Ratings,Digital Content Ratings,https://www.nielsen.com/solutions/audience-measurement/digital-content-ratings/
@@ -1758,7 +1759,7 @@ service_id,name,name_ja,url
 2473,Google books,Google books,https://books.google.co.jp/
 2474,Webeo,Webeo,https://www.webeo.com/
 2475,accaii.com,アクセス解析研究所,https://accaii.com/
-2476,Engagebot,Engagebot,https://www.engage-bot.asia/
+2476,Engagebot,Engagebot,""
 2477,LOGLY Engage,LOGLY Engage,https://x-opt.io/#merit
 2478,ConfigCat,ConfigCat,https://configcat.com/
 2479,LightWidget,LightWidget,https://lightwidget.com/
@@ -1768,20 +1769,20 @@ service_id,name,name_ja,url
 2483,@Press,@Press,https://www.atpress.ne.jp/
 2484,EventRegist,EventRegist,https://info.eventregist.com/registration-service
 2485,ECnavi,ECナビ,https://ecnavi.jp/
-2488,LandingHub,ランディングハブ,https://www.landinghub.net/
+2488,LandingHub,LandingHub,https://www.landinghub.net/
 2489,FormBridge,フォームブリッジ,https://www.kintoneapp.com/form-bridge
 2490,Ranklet4,Ranklet4,https://ranklet4.com/
 2491,uniweb,ユニウェブ,https://hellouniweb.com/
 2492,Weathernews,ウェザーニュース,https://weathernews.jp/
 2493,Google Apps Script,Google Apps Script,https://workspace.google.co.jp/intl/ja/products/apps-script/
 2494,Myee Global,Myee Global,https://www.myeeglobal.com/
-2495,Apple ID,Apple ID,https://appleid.cdn-apple.com/
+2495,Apple ID,Apple ID,https://account.apple.com/
 2496,smallchat,smallchat,https://small.chat/
 2497,DMMchatboost,DMMチャットブースト,https://dmm-corp.com/business/dmmchatboost/#contact
 2498,e-NINSHO,e-NINSHO,https://www.nri.com/jp/service/solution/eninsho.html
 2499,Sienca,Sienca,https://sienca.jp/
 2500,Sports breaking news and Record widget,スポーツ速報・記録ウィジェット,https://www.kyodonews.jp/
-2501,mercari Hallo,メルカリ ハロ,https://hallo.mercari.com/
+2501,mercari Hallo,メルカリ ハロ,""
 2502,mercari,メルカリ,https://jp.mercari.com/
 2503,Google API,Google API,https://developers.google.com/explorer-help
 2504,AnyManager for Web,AnyManager for Web,https://corp.fourm.jp/anymanagerforweb
@@ -1810,14 +1811,14 @@ service_id,name,name_ja,url
 2527,mercari Ads,メルカリAds,https://ads.mercari.com/
 2528,Google Play,Google Play,https://play.google.com/store/games?device=windows
 2529,AFFILICODE System,アフィリコードプラス,https://system.affilicode.jp/
-2530,MuleSoft,MuleSoft,https://www.mulesoft.com/jp/
+2530,MuleSoft,MuleSoft,https://www.mulesoft.com/jp
 2531,Sherpa Stream,Sherpa Stream,https://www.telestream.net/sherpa/overview.htm
 2532,di-PiNK,di-PiNK,https://www.di-pink.com/
 2533,docomo connecting path,docomo connecting path,https://ssw.web.docomo.ne.jp/marketing/strengths/connectingpath/
 2534,Zoho,Zoho,https://www.zoho.com/
 2535,hCaptcha,hCaptcha,https://www.hcaptcha.com/
 2536,awoo AI,awoo AI,https://www.awoo.ai/ja/
-2537,Welltool,Welltool,https://welltool.biz/
+2537,Welltool,Welltool,https://welltool.co.jp/translation/
 2538,stand.fm,stand.fm,https://stand.fm/
 2539,Zoho SalesIQ(Tracking),Zoho SalesIQ(Tracking),https://www.zoho.com/salesiq/
 2540,muscle-ad,muscle-ad,https://muscle-ad.com/
@@ -1828,7 +1829,7 @@ service_id,name,name_ja,url
 2545,Adelphic,Adelphic,https://www.viantinc.com/solutions/dsp/
 2546,Jivox,Jivox,https://jivox.com/
 2547,33Across,33Across,https://www.33across.com/
-2548,ADITION,ADITION,https://www.adition.com/
+2548,ADITION,ADITION,https://virtualminds.com/adition/
 2549,BiNDup,BiNDup,https://bindup.jp/
 2550,Smooth Contact,Smooth Contact,https://bindup.jp/function/smoothcontact.html
 2551,DistrictM,DistrictM,https://www.sharethrough.com/
@@ -1836,11 +1837,11 @@ service_id,name,name_ja,url
 2553,f-tra EFO,f-tra EFO,https://f-tra.com/ja/efo/
 2554,Wunderkind,Wunderkind,https://www.wunderkind.co/
 2555,DEC Visual IVR,DEC Visual IVR,https://www.trans-cosmos.co.jp/
-2556,Hiromel,ヒロメル,https://hilomel.com/
+2556,Hiromel,ヒロメル,""
 2557,IR Direct,IR Direct,https://ir-robotics.co.jp/
 2558,Roku,Roku,https://www.roku.com/
 2559,TIMIFY,TIMIFY,https://www.timify.com/en/
-2560,Instafeed,Instafeed,https://help.minttstudio.com/category/22-installation
+2560,Instafeed,Instafeed,https://docs.minttstudio.com/category/22-installation
 2561,Content Analytics,コンテンツアナリティクス,https://www.uncovertruth.co.jp/service/ca/
 2562,Buffett Code,バフェット・コード,https://www.buffett-code.com/
 2563,STRIGHT,STRIGHT,https://www.bizris.com/stright/jp
@@ -1849,7 +1850,7 @@ service_id,name,name_ja,url
 2566,Box,Box,https://www.box.com/ja-jp/overview
 2567,Motion Web Design Ideas Book,動くWebデザインアイディア帳,https://ugokuweb.coco-factory.jp/
 2568,WEALTH ADVISOR,ウエルスアドバイザー,https://www.wealthadvisor.co.jp/detail_search
-2569,BizXaaS MaP,BizXaaS MaP,https://madore.glbs.jp/about_map.html
+2569,BizXaaS MaP,BizXaaS MaP,https://www.nttdata.com/jp/ja/lineup/bizxaas_map/
 2570,Locipo,Locipo,https://locipo.jp/
 2571,waaq Link,waaq Link,https://link.waaq.jp/
 2572,Docswell,ドクセル,https://www.docswell.com/
@@ -1866,21 +1867,21 @@ service_id,name,name_ja,url
 2583,Bcart,Bカート,https://bcart.jp/
 2584,OpenMoney,OpenMoney,https://openmoney.jp/
 2585,MyTalent,MyTalent,https://mytalent.jp/crm/
-2586,Azira Pte Ltd,Azira Pte Ltd,https://azira.com/blogs/japanese-regaining-their-holiday-fervor/
+2586,Azira Pte Ltd,Azira Pte Ltd,https://azira.com/blogs/japanese-regaining-their-holiday-fervor
 2587,Helium Customer Fields,Helium Customer Fields,https://customerfields.com/
-2588,WISE Ads,WISE Ads,https://solutions.hakuhodody-one.co.jp/wise-ads
+2588,WISE Ads,WISE Ads,https://www.hakuhodody-one.co.jp/service/marketing/media-solution/wise-ads/
 2589,AccessiLens,アクセシレンズ,https://accessilens.com/
-2590,Expanded functionality for Yahoo! ads,Yahoo!広告の機能拡張,
+2590,Expanded functionality for Yahoo! ads,Yahoo!広告の機能拡張,""
 2591,Typeform,Typeform,https://www.typeform.com/
 2592,Smile Wanted,Smile Wanted,https://www.smilewanted.com/
 2593,EmmaTools,エマツールズ,https://emma.tools/
-2594,Nexx360 Programmatic Cloud,Nexx360 Programmatic Cloud,https://nexx360.io/en/home/
+2594,Nexx360 Programmatic Cloud,Nexx360 Programmatic Cloud,https://nexx360.io/
 2595,Eskimi DSP,Eskimi DSP,https://eskimi.gaprise.jp/
 2596,Live Call,LiveCall,https://livecall.jp/
 2597,ELOAN,イー・ローン,https://www.eloan.co.jp/
 2598,Sales Marker,Sales Marker,https://sales-marker.jp/
 2599,RESERVA,RESERVA,https://reserva.be/
-2600,IP Geolocation API,IP Geolocation API,https://ipinfo.io/products/ip-geolocation-api
+2600,IP Geolocation API,IP Geolocation API,https://ipinfo.io/data/ip-geolocation
 2601,OPTiM Biz,OPTiM Biz,https://www.optim.co.jp/optim-biz/
 2602,LangShop,LangShop,https://langshop.io/
 2603,MapTiler,MapTiler,https://www.maptiler.com/
@@ -1915,10 +1916,10 @@ service_id,name,name_ja,url
 2632,Agora,Agora,https://www.agora.io/en/
 2633,Amazon Interactive Video Service,Amazon Interactive Video Service,https://aws.amazon.com/ivs/
 2634,Beacon Bank,Beacon Bank,https://www.beaconbank.jp/
-2635,Peasy,Peasy,
+2635,Peasy,Peasy,""
 2636,Web Accessibility Compliance Tool,ウェブアクセシビリティ対応ツール,https://kmj-webaccessibility.konicaminolta.jp/
 2637,J-Stream Equipmedia (Video Analytics),J-Stream Equipmedia(視聴解析),https://www.stream.co.jp/service/platform/equipmedia/
-2638,MediaKind,MediaKind,https://mediakind.com/
+2638,MediaKind,MediaKind,https://www.mediakind.com/
 2639,AI Optimeter,AI Optimeter,https://ai-optimeter.com/
 2640,Profile Passport SDK,Profile Passport SDK,https://www.blogwatcher.co.jp/service/profile-passport-sdk
 2641,Google Merchant Center,Google Merchant Center,https://business.google.com/en-all/merchant-center/
@@ -1941,7 +1942,7 @@ service_id,name,name_ja,url
 2659,Weibo,Weibo,https://open.weibo.com/widgets
 2660,Yext Analytics,イエクスト アナリティクス,https://www.yext.com/ja/platform/analytics
 2661,AWS Certificate Manager,AWS Certificate Manager,https://aws.amazon.com/jp/certificate-manager/
-2662,IZANAI Powered by OpenAI,IZANAI Powered by OpenAI,https://ai.cloudcircus.jp/
+2662,IZANAI Powered by OpenAI,IZANAI Powered by OpenAI,https://izanai.cloudcircus.jp/
 2663,DOCOMO affiliate,ドコモ アフィリエイト,https://affiliate.docomo.ne.jp/
 2664,AnyGift,AnyGift,https://anygift.jp/
 2665,DATA CONTROL,DATA CONTROL,https://lp.sold-out.co.jp/data_control
@@ -1951,8 +1952,8 @@ service_id,name,name_ja,url
 2669,Account Engagement(HEISHIN),Account Engagement(兵神装備),https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
 2672,Omakase.ai,Omakase.ai,https://www.omakase.ai/
 2673,Ahrefs Web Analytics,Ahrefsウェブアナリティクス,https://ahrefs.com/web-analytics
-2674,Insight(tracker),Insight(トラッカー),https://act.aisin.co.jp/
-2675,Qualtrics (Ricoh),Qualtrics (Ricoh),https://survey.ricoh.com
+2674,Insight(tracker),Insight(トラッカー),https://act.aisin.co.jp/users/sign_in
+2675,Qualtrics (Ricoh),Qualtrics (Ricoh),https://survey.ricoh.com/login
 2677,Global-e,Global-e,https://www.global-e.com/
 2680,Point Concent,ポイント・コンセント,https://www.g-plan.net/service/solution/pointconcent
 2681,web connect,webコネクト,https://webconnect.forcia.com/aboutwc.html
@@ -1965,3 +1966,9 @@ service_id,name,name_ja,url
 2688,Recruiteroid,Recruiteroid,https://go.goodstory.jp/rs/991-JKF-293/images/recruiteroid.html#
 2689,EasyPolls,EasyPolls,https://objectplanet.com/polls/
 2690,Next SFA/CRM,ネクストSFA/CRM,https://next-sfa.jp/
+2691,Tableau,Tableau,https://www.tableau.com/
+2692,Account Engagement（Panasonic Housing Solutions）,Account Engagement（Panasonic Housing Solutions）,https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
+2693,CSP with Google,CSP with Google,https://csp.withgoogle.com/docs/index.html
+2695,OpenAI Ads,OpenAI Ads,https://ads.openai.com/
+2696,Marketing Cloud Next,Marketing Cloud Next,https://help.salesforce.com/s/articleView?id=mktg.mktg_main.htm&type=5
+2697,Conversion MIERUCA,コンバージョンミエルカ,https://mieru-ca.com/conversion/
